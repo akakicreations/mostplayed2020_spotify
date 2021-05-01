@@ -1,0 +1,808 @@
+,Unnamed: 0,genre1,genre2,genre3,genre4,genre5,genre6,genre7,genre8,genre9,genre10,10,11,12,13,genres_together,artist_id,Artist,artist_followers,artist_popularity,genre_depurated_final
+0,1,reggaeton,reggaeton flow,trap latino,,,,,,,,,,,,"reggaeton,reggaeton flow,trap latino",5bWUlnPx9OYKsLiUJrhCA1,Jon Z,2987783,0.77,latin and reggaeton
+1,2,contemporary country,country road,,,,,,,,,,,,,"contemporary country,country road",3oSJ7TBVCWMDMiYjXNiCKE,Kane Brown,3308713,0.8,"rock, country and indie"
+2,3,cancion melodica,cantautor,pop romantico,spanish pop,,,,,,,,,,,"cancion melodica,cantautor,pop romantico,spanish pop",1TiGxAkU8w0xBCVFOP6Ttl,Duo Dinamico,133284,0.52,other
+3,4,big room,dance pop,edm,pop,pop dance,,,,,,,,,,"big room,dance pop,edm,pop,pop dance",1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,22481839,0.91,"dance, electro and ambient"
+4,5,pop,pop rap,r&b,southern hip hop,trap,trap soul,,,,,,,,,"pop,pop rap,r&b,southern hip hop,trap,trap soul",7c0XG5cIJTrrAgEC3ULPiq,Ty Dolla $ign,3764602,0.89,"pop, new age and standards"
+5,6,album rock,classic rock,hard rock,metal,rock,,,,,,,,,,"album rock,classic rock,hard rock,metal,rock",2cnMpRsOVqtPMfq7YiFE6K,Van Halen,3904575,0.77,"rock, country and indie"
+6,7,canadian contemporary r&b,pop,r&b,,,,,,,,,,,,"canadian contemporary r&b,pop,r&b",20wkVLutqVOYrc0kxFs7rA,Daniel Caesar,2614140,0.9,"hip hop, r&b and soul"
+7,8,dance pop,neo soul,pop,,,,,,,,,,,,"dance pop,neo soul,pop",3hv9jJF3adDNsBSIQDqcjp,Mark Ronson,904573,0.8,"dance, electro and ambient"
+8,9,flamenco urbano,trap latino,urbano espanol,,,,,,,,,,,,"flamenco urbano,trap latino,urbano espanol",0FwnPHExlRRxEZPLAi5tmG,JC Reyes,13563,0.6,latin and reggaeton
+9,10,,,,,,,,,,,,,,,,0fFgT6tqYswF6TozhqaEJF,Lion Music,271,0.29,"dance, electro and ambient"
+10,11,spanish indie pop,spanish pop,,,,,,,,,,,,,"spanish indie pop,spanish pop",5Q30fhTc0Sl0Q4C5dOjhhQ,La La Love You,40091,0.57,"pop, new age and standards"
+11,12,turkish hip hop,turkish trap pop,,,,,,,,,,,,,"turkish hip hop,turkish trap pop",1Fg19vpUJpAAPFjnKaVYVW,Reynmen,2236679,0.65,"hip hop, r&b and soul"
+12,13,dance pop,edm,pop,pop dance,post-teen pop,tropical house,uk pop,,,,,,,,"dance pop,edm,pop,pop dance,post-teen pop,tropical house,uk pop",1MIVXf74SZHmTIp4V4paH4,Mabel,1279277,0.79,"dance, electro and ambient"
+13,14,brooklyn drill,,,,,,,,,,,,,,brooklyn drill,0eDvMgVFoNV3TpwtrVCoTj,Pop Smoke,5293467,0.92,other
+14,15,album rock,classic rock,hard rock,metal,rock,soft rock,,,,,,,,,"album rock,classic rock,hard rock,metal,rock,soft rock",00tVTdpEhQQw1bqdu8RCx2,Blue Öyster Cult,1062018,0.68,"rock, country and indie"
+15,16,champeta,colombian pop,electro latino,latin,latin pop,reggaeton,reggaeton colombiano,trap latino,,,,,,,"champeta,colombian pop,electro latino,latin,latin pop,reggaeton,reggaeton colombiano,trap latino",5DUlefCLzVRzNWaNURTFpK,Cali Y El Dandee,3020009,0.77,latin and reggaeton
+16,17,argentine hip hop,trap argentino,trap triste,,,,,,,,,,,,"argentine hip hop,trap argentino,trap triste",1vqR17Iv8VFdzure1TAXEq,Lit Killah,2042764,0.75,"hip hop, r&b and soul"
+17,18,german hip hop,hamburg hip hop,,,,,,,,,,,,,"german hip hop,hamburg hip hop",1aS5tqEs9ci5P9KD9tZWa6,Bonez MC,1621225,0.81,"hip hop, r&b and soul"
+18,19,urbano espanol,,,,,,,,,,,,,,urbano espanol,0jeYkqwckGJoHQhhXwgzk3,Cruz Cafuné,156231,0.65,latin and reggaeton
+19,20,afroswing,,,,,,,,,,,,,,afroswing,71jSVPQ6yskfyvWeiwvT5s,S1mba,43431,0.67,other
+20,21,latin arena pop,spanish pop,spanish rock,,,,,,,,,,,,"latin arena pop,spanish pop,spanish rock",5Hsv8dUHHOdnn72q4XIVz7,Leiva,493795,0.67,"pop, new age and standards"
+21,22,pop flamenco,spanish pop,,,,,,,,,,,,,"pop flamenco,spanish pop",4d3kmfoZBTuUPSUjgP45uo,Lérica,47736,0.66,"pop, new age and standards"
+22,23,electropop,modern rock,pop,,,,,,,,,,,,"electropop,modern rock,pop",1KP6TWI40m7p3QBTU6u2xo,BØRNS,997784,0.75,"dance, electro and ambient"
+23,24,italian hip hop,italian pop,pop virale italiano,rap napoletano,,,,,,,,,,,"italian hip hop,italian pop,pop virale italiano,rap napoletano",0L1f9i3L3fkMNENljDOsjG,Rocco Hunt,1035919,0.72,"hip hop, r&b and soul"
+24,25,swedish pop,,,,,,,,,,,,,,swedish pop,5vCOdeiQt9LyzdI87kt5Sh,AronChupa,345578,0.67,"pop, new age and standards"
+25,26,australian pop,pop,post-teen pop,uk pop,,,,,,,,,,,"australian pop,pop,post-teen pop,uk pop",6L1XC7NrmgWRlwAeLJvVtA,Sam Fischer,104233,0.77,"pop, new age and standards"
+26,27,alternative metal,alternative rock,nu metal,post-grunge,rap rock,rock,,,,,,,,,"alternative metal,alternative rock,nu metal,post-grunge,rap rock,rock",3dXaa6jwM7B52GZpaJEIr5,Puddle Of Mudd,1405858,0.67,"rock, country and indie"
+27,28,alt z,dance pop,electropop,pop,post-teen pop,,,,,,,,,,"alt z,dance pop,electropop,pop,post-teen pop",0ZED1XzwlLHW4ZaG4lOT6m,Julia Michaels,3765451,0.82,"dance, electro and ambient"
+28,29,latin talent show,,,,,,,,,,,,,,latin talent show,2CRUMWHxN6hr9Ju8YBtDCr,Bruno Alves,13578,0.35,latin and reggaeton
+29,30,hip hop,new orleans rap,pop rap,rap,trap,,,,,,,,,,"hip hop,new orleans rap,pop rap,rap,trap",55Aa2cqylxrFIXC767Z865,Lil Wayne,10351085,0.9,"hip hop, r&b and soul"
+30,31,dance pop,hip hop,pop rap,rap,southern hip hop,trap,,,,,,,,,"dance pop,hip hop,pop rap,rap,southern hip hop,trap",5LHRHt1k9lMyONurDHEdrp,Tyga,6214990,0.86,"dance, electro and ambient"
+31,32,reggaeton,reggaeton flow,trap latino,,,,,,,,,,,,"reggaeton,reggaeton flow,trap latino",4QrBoWLm2WNlPdbFhmlaUZ,KEVVO,178843,0.76,latin and reggaeton
+32,33,trap,viral rap,,,,,,,,,,,,,"trap,viral rap",0WK3H9OErSn5zKOkOV5egm,DDG,372654,0.75,"hip hop, r&b and soul"
+33,34,ambient,art rock,compositional ambient,electronica,experimental,experimental ambient,fourth world,glam rock,minimalism,,,,,,"ambient,art rock,compositional ambient,electronica,experimental,experimental ambient,fourth world,glam rock,minimalism",7MSUfLeTdDEoZiJPDSBXgi,Brian Eno,506085,0.65,other
+34,35,modern blues,soul,,,,,,,,,,,,,"modern blues,soul",3qnGvpP8Yth1AqSBMqON5x,Leon Bridges,1198397,0.77,other
+35,36,album rock,blues rock,classic rock,country rock,hard rock,mellow gold,rock,soft rock,southern rock,,,,,,"album rock,blues rock,classic rock,country rock,hard rock,mellow gold,rock,soft rock,southern rock",4MVyzYMgTwdP7Z49wAZHx0,Lynyrd Skynyrd,3360915,0.76,"rock, country and indie"
+36,37,hip hop,philly rap,pop rap,rap,southern hip hop,trap,,,,,,,,,"hip hop,philly rap,pop rap,rap,southern hip hop,trap",20sxb77xiYeusSH8cVdatc,Meek Mill,5000029,0.82,"hip hop, r&b and soul"
+37,38,rap espanol,spanish hip hop,urbano espanol,,,,,,,,,,,,"rap espanol,spanish hip hop,urbano espanol",66BpLv7bc0OLbr50D1cnGS,Zetazen,93336,0.55,"hip hop, r&b and soul"
+38,39,electropop,pop,post-teen pop,,,,,,,,,,,,"electropop,pop,post-teen pop",5JZ7CnR6gTvEMKX4g70Amv,Lauv,4189623,0.85,"dance, electro and ambient"
+39,40,atl hip hop,hip hop,melodic rap,pop r&b,pop rap,r&b,rap,southern hip hop,trap,,,,,,"atl hip hop,hip hop,melodic rap,pop r&b,pop rap,r&b,rap,southern hip hop,trap",5bgfj5zUoWpyeVatGDjn6H,K CAMP,1311495,0.71,"hip hop, r&b and soul"
+40,41,dominican pop,pop reggaeton,urbano espanol,,,,,,,,,,,,"dominican pop,pop reggaeton,urbano espanol",7zY0DMisq1oYXvNNgGwHBY,Juanfran,114641,0.63,"pop, new age and standards"
+41,42,german hip hop,,,,,,,,,,,,,,german hip hop,325L7kby6bkG5qSXXAFEWM,Joker Bra,190958,0.66,"hip hop, r&b and soul"
+42,43,adult standards,classic soul,memphis soul,soul,soul blues,southern soul,,,,,,,,,"adult standards,classic soul,memphis soul,soul,soul blues,southern soul",60df5JBRRPcnSpsIMxxwQm,Otis Redding,1739419,0.74,"pop, new age and standards"
+43,44,atl hip hop,hip hop,melodic rap,pop rap,rap,southern hip hop,trap,,,,,,,,"atl hip hop,hip hop,melodic rap,pop rap,rap,southern hip hop,trap",1pPmIToKXyGdsCF6LmqLmI,Rich The Kid,2560187,0.77,"hip hop, r&b and soul"
+44,45,k-pop girl group,,,,,,,,,,,,,,k-pop girl group,2KC9Qb60EaY0kW4eH68vr3,ITZY,1900021,0.74,"pop, new age and standards"
+45,46,pop,post-teen pop,,,,,,,,,,,,,"pop,post-teen pop",66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,61857797,0.96,"pop, new age and standards"
+46,47,latin,latin arena pop,latin pop,mexican pop,,,,,,,,,,,"latin,latin arena pop,latin pop,mexican pop",4RjamFQJNT8nVbTKXJDJgv,Kalimba,1407163,0.65,latin and reggaeton
+47,48,cantautor,latin rock,rock alternativo espanol,spanish indie pop,spanish pop,spanish rock,,,,,,,,,"cantautor,latin rock,rock alternativo espanol,spanish indie pop,spanish pop,spanish rock",6J6yx1t3nwIDyPXk5xa7O8,Vetusta Morla,581024,0.64,"rock, country and indie"
+48,49,circuit,guaracha,,,,,,,,,,,,,"circuit,guaracha",2TWBei99x2tV70bdYbWdAf,Dayvi,42908,0.65,other
+49,50,arkansas country,outlaw country,,,,,,,,,,,,,"arkansas country,outlaw country",6kACVPfCOnqzgfEF5ryl0x,Johnny Cash,4637401,0.79,"rock, country and indie"
+50,51,latin pop,reggaeton chileno,trap chileno,trap latino,,,,,,,,,,,"latin pop,reggaeton chileno,trap chileno,trap latino",7rOlQwf8OuFLFQp4aydjBt,Paloma Mami,901177,0.72,"pop, new age and standards"
+51,52,latin,latin hip hop,puerto rican pop,reggaeton,trap latino,,,,,,,,,,"latin,latin hip hop,puerto rican pop,reggaeton,trap latino",33ScadVnbm2X8kkUqOkC6Z,Don Omar,5305619,0.83,latin and reggaeton
+52,53,hip hop,rap,,,,,,,,,,,,,"hip hop,rap",4V8LLVI7PbaPR0K2TGSxFF,"Tyler, The Creator",6176729,0.86,"hip hop, r&b and soul"
+53,54,dance rock,europop,mellow gold,new romantic,new wave,new wave pop,pop rock,rock,soft rock,sophisti-pop,synthpop,,,,"dance rock,europop,mellow gold,new romantic,new wave,new wave pop,pop rock,rock,soft rock,sophisti-pop,synthpop",0NKDgy9j66h3DLnN8qu1bB,Eurythmics,1279230,0.72,"dance, electro and ambient"
+54,55,dmv rap,hip hop,pop rap,rap,trap,underground hip hop,vapor trap,,,,,,,,"dmv rap,hip hop,pop rap,rap,trap,underground hip hop,vapor trap",0huGjMyP507tBCARyzSkrv,Cordae,1421967,0.74,"hip hop, r&b and soul"
+55,56,adult standards,motown,,,,,,,,,,,,,"adult standards,motown",2iE18Oxc8YSumAU232n4rW,The Jackson 5,1119726,0.71,"pop, new age and standards"
+56,57,brega funk,funk carioca,,,,,,,,,,,,,"brega funk,funk carioca",0yApzRdrUqTGqX9MULdnmV,Thiaguinho MT,26833,0.55,"hip hop, r&b and soul"
+57,58,indie liguria,italian hip hop,trap italiana,,,,,,,,,,,,"indie liguria,italian hip hop,trap italiana",1AgAVqo74e2q4FVvg0xpT7,Tedua,1192495,0.71,"rock, country and indie"
+58,59,rap espanol,spanish hip hop,urbano espanol,,,,,,,,,,,,"rap espanol,spanish hip hop,urbano espanol",5JcO3FHEBbWTQMUHmWtU2g,Juancho Marqués,120756,0.61,"hip hop, r&b and soul"
+59,60,italian hip hop,italian pop,trap italiana,,,,,,,,,,,,"italian hip hop,italian pop,trap italiana",23TFHmajVfBtlRx5MXqgoz,Sfera Ebbasta,4311368,0.78,"hip hop, r&b and soul"
+60,61,flamenco urbano,,,,,,,,,,,,,,flamenco urbano,2fe5YD0v1HzDeACkHSPAXG,El Greco,6356,0.51,latin and reggaeton
+61,62,,,,,,,,,,,,,,,,2jYURavGC2HJga7VmZ0vWS,Josh Arce,1760,0.4,"dance, electro and ambient"
+62,63,adult standards,canadian pop,jazz pop,lounge,,,,,,,,,,,"adult standards,canadian pop,jazz pop,lounge",1GxkXlMwML1oSg5eLPiAz3,Michael Bublé,4532284,0.78,"pop, new age and standards"
+63,64,dembow,dominican pop,,,,,,,,,,,,,"dembow,dominican pop",7mcJN2bWqCv7jvykgHp4KN,La Nueva Escuela,75064,0.52,latin and reggaeton
+64,65,dfw rap,melodic rap,rap,,,,,,,,,,,,"dfw rap,melodic rap,rap",246dkjvS1zLTtiykXe5h60,Post Malone,32321370,0.93,"hip hop, r&b and soul"
+65,66,argentine hip hop,trap argentino,trap latino,,,,,,,,,,,,"argentine hip hop,trap argentino,trap latino",2x7PC78TmgqpEIjaGAZ0Oz,Trueno,1911802,0.72,"hip hop, r&b and soul"
+66,67,dance pop,pop,pop rap,post-teen pop,urban contemporary,,,,,,,,,,"dance pop,pop,pop rap,post-teen pop,urban contemporary",2DlGxzQSjYe5N6G9nkYghR,Jennifer Lopez,9875075,0.8,"dance, electro and ambient"
+67,68,album rock,classic rock,country rock,folk rock,heartland rock,mellow gold,rock,soft rock,yacht rock,,,,,,"album rock,classic rock,country rock,folk rock,heartland rock,mellow gold,rock,soft rock,yacht rock",0ECwFtbIWEVNwjlrfc6xoL,Eagles,6423526,0.8,"rock, country and indie"
+68,69,latin,reggaeton,reggaeton colombiano,,,,,,,,,,,,"latin,reggaeton,reggaeton colombiano",1r4hJ1h58CWwUQe3MxPuau,Maluma,25270897,0.91,latin and reggaeton
+69,70,dance pop,edm,electronic trap,pop,pop dance,,,,,,,,,,"dance pop,edm,electronic trap,pop,pop dance",540vIaP2JwjQb9dm3aArA4,DJ Snake,7325778,0.83,"dance, electro and ambient"
+70,71,colombian pop,latin,pop reggaeton,reggaeton,reggaeton colombiano,reggaeton flow,trap latino,,,,,,,,"colombian pop,latin,pop reggaeton,reggaeton,reggaeton colombiano,reggaeton flow,trap latino",2LRoIwlKmHjgvigdNGBHNo,Feid,512190,0.81,"pop, new age and standards"
+71,72,melodic rap,philly rap,rap,trap,,,,,,,,,,,"melodic rap,philly rap,rap,trap",4O15NlyKLIASxsJ0PrXPfz,Lil Uzi Vert,11280687,0.91,"hip hop, r&b and soul"
+72,73,musica jibara,puerto rican folk,,,,,,,,,,,,,"musica jibara,puerto rican folk",5TphiK6LsT4X5NOZxq3NJB,Trio Vegabajeño,8484,0.49,other
+73,74,hollywood,show tunes,,,,,,,,,,,,,"hollywood,show tunes",73Np75Wv2tju61Eo9Zw4IR,Idina Menzel,344071,0.75,"pop, new age and standards"
+74,75,florida rap,,,,,,,,,,,,,,florida rap,45TgXXqMDdF8BkjA83OM7z,Rod Wave,1904850,0.84,"hip hop, r&b and soul"
+75,76,alt z,electropop,indie pop,pop,post-teen pop,,,,,,,,,,"alt z,electropop,indie pop,pop,post-teen pop",6P5NO5hzJbuOqSdyPB7SJM,Ashe,516862,0.77,"dance, electro and ambient"
+76,77,rap espanol,rap underground espanol,spanish hip hop,,,,,,,,,,,,"rap espanol,rap underground espanol,spanish hip hop",79N4S7UXdjo2fAh3OHJQuB,Hard GZ,172822,0.63,"hip hop, r&b and soul"
+77,78,rap espanol,urbano espanol,,,,,,,,,,,,,"rap espanol,urbano espanol",5Uox3n7m4W2CoM9MmHPJwQ,Delaossa,97823,0.64,"hip hop, r&b and soul"
+78,79,italian adult pop,italian pop,,,,,,,,,,,,,"italian adult pop,italian pop",0QrUbsrL5imqntAfDl8i7q,Fred De Palma,751544,0.69,"pop, new age and standards"
+79,80,latin arena pop,pop flamenco,spanish pop,spanish pop rock,,,,,,,,,,,"latin arena pop,pop flamenco,spanish pop,spanish pop rock",5kSJMVPcTITrSZxTrHllVN,Vanesa Martín,727686,0.7,"pop, new age and standards"
+80,81,dembow,latin,rap dominicano,reggaeton,trap latino,,,,,,,,,,"dembow,latin,rap dominicano,reggaeton,trap latino",2oQX8QiMXOyuqbcZEFsZfm,El Alfa,1616634,0.82,latin and reggaeton
+81,82,latin,latin hip hop,reggaeton,trap latino,,,,,,,,,,,"latin,latin hip hop,reggaeton,trap latino",4VMYDCV2IEDYJArk749S6m,Daddy Yankee,22961742,0.91,latin and reggaeton
+82,83,rap latina,urbano espanol,,,,,,,,,,,,,"rap latina,urbano espanol",1jB62pOe5WpGiHOBDtKBBG,La Zowi,96195,0.54,latin and reggaeton
+83,84,dance pop,pop,post-teen pop,,,,,,,,,,,,"dance pop,pop,post-teen pop",0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,26941256,0.89,"dance, electro and ambient"
+84,85,alt z,canadian contemporary r&b,indie cafe pop,pop,post-teen pop,,,,,,,,,,"alt z,canadian contemporary r&b,indie cafe pop,pop,post-teen pop",66W9LaWS0DPdL7Sz8iYGYe,JP Saxe,246137,0.77,"dance, electro and ambient"
+85,86,eurovision,latin talent show,latin viral pop,musica catalana,reggae catala,spanish pop,,,,,,,,,"eurovision,latin talent show,latin viral pop,musica catalana,reggae catala,spanish pop",2hahtdJusGYC77DKod4qfB,Miki Núñez,107784,0.57,"pop, new age and standards"
+86,87,latin,latin arena pop,latin pop,latin viral pop,reggaeton,spanish pop,,,,,,,,,"latin,latin arena pop,latin pop,latin viral pop,reggaeton,spanish pop",2bxxlINUlcMQQb39K7IopR,Abraham Mateo,1228676,0.68,latin and reggaeton
+87,88,latin viral pop,reggaeton mexicano,,,,,,,,,,,,,"latin viral pop,reggaeton mexicano",1QivQCLVipV61DiQiyV14A,Kim Loaiza,1845502,0.63,"pop, new age and standards"
+88,89,latin,reggaeton,trap latino,,,,,,,,,,,,"latin,reggaeton,trap latino",0EFisYRi20PTADoJrifHrz,Jhay Cortez,1968301,0.91,latin and reggaeton
+89,90,pop,r&b,soul,,,,,,,,,,,,"pop,r&b,soul",3fMbdgg4jU18AjLCKBhRSm,Michael Jackson,18270099,0.86,"pop, new age and standards"
+90,91,musical advocacy,,,,,,,,,,,,,,musical advocacy,35S20clEkkSNUo23ViaslZ,Band Aid,19847,0.43,other
+91,92,german hip hop,,,,,,,,,,,,,,german hip hop,1qQLhymHXFPtP5U8KNKsm6,Apache 207,1568081,0.78,"hip hop, r&b and soul"
+92,93,,,,,,,,,,,,,,,,2wQeeyUc7oiN9aLkuf2gy1,Dflowetry,130,0.23,"dance, electro and ambient"
+93,94,forro,sertanejo,sertanejo pop,sertanejo universitario,,,,,,,,,,,"forro,sertanejo,sertanejo pop,sertanejo universitario",22jNvLBrXGKr4CcV2tw8Ag,Jonas Esticado,1180743,0.73,other
+94,95,canadian contemporary r&b,canadian pop,pop,,,,,,,,,,,,"canadian contemporary r&b,canadian pop,pop",1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,31659634,0.97,"hip hop, r&b and soul"
+95,96,copla,musica aragonesa,pop flamenco,rumba,spanish pop,,,,,,,,,,"copla,musica aragonesa,pop flamenco,rumba,spanish pop",0Zt1X6eSDuttQS3JHIyCvZ,Manolo Escobar,73001,0.49,other
+96,97,disco,funk,jazz funk,motown,quiet storm,soul,,,,,,,,,"disco,funk,jazz funk,motown,quiet storm,soul",4QQgXkCYTt3BlENzhyNETg,"Earth, Wind & Fire",2861290,0.77,"dance, electro and ambient"
+97,98,pop,uk pop,,,,,,,,,,,,,"pop,uk pop",4GNC7GD6oZMSxPGyXy4MNB,Lewis Capaldi,7657759,0.86,"pop, new age and standards"
+98,99,atl hip hop,dirty south rap,hip hop,pop rap,rap,southern hip hop,trap,,,,,,,,"atl hip hop,dirty south rap,hip hop,pop rap,rap,southern hip hop,trap",3ipn9JLAPI5GUEo4y4jcoi,Ludacris,2127960,0.81,"hip hop, r&b and soul"
+99,100,alternative hip hop,atl hip hop,conscious hip hop,dirty south rap,escape room,political hip hop,southern hip hop,,,,,,,,"alternative hip hop,atl hip hop,conscious hip hop,dirty south rap,escape room,political hip hop,southern hip hop",2N4EYkIlG1kv25g6Wv8LGI,Killer Mike,227890,0.59,"hip hop, r&b and soul"
+100,101,latin,puerto rican pop,reggaeton,trap latino,,,,,,,,,,,"latin,puerto rican pop,reggaeton,trap latino",1i8SpTcr7yvPOmcqrbnVXY,Ozuna,27936918,0.93,latin and reggaeton
+101,102,colombian pop,latin,latin pop,reggaeton,reggaeton colombiano,trap latino,,,,,,,,,"colombian pop,latin,latin pop,reggaeton,reggaeton colombiano,trap latino",3m5qlPf2OkihLz3dRYnkPA,Ovy On The Drums,94429,0.71,"pop, new age and standards"
+102,103,latin,reggaeton,trap latino,,,,,,,,,,,,"latin,reggaeton,trap latino",14zUHaJZo1mnYtn6IBRaRP,Justin Quiles,2686452,0.87,latin and reggaeton
+103,104,canadian hip hop,pop,,,,,,,,,,,,,"canadian hip hop,pop",4rTv3Ejc7hKMtmoBOK1B4T,Ali Gatie,1676887,0.79,"hip hop, r&b and soul"
+104,105,alt z,dance pop,electropop,pop,post-teen pop,,,,,,,,,,"alt z,dance pop,electropop,pop,post-teen pop",45dkTj5sMRSjrmBSBeiHym,Tate McRae,1405500,0.84,"dance, electro and ambient"
+105,106,dance pop,indie cafe pop,pop,post-teen pop,talent show,tropical house,uk pop,,,,,,,,"dance pop,indie cafe pop,pop,post-teen pop,talent show,tropical house,uk pop",7nDsS0l5ZAzMedVRKPP8F1,Ella Henderson,1127458,0.75,"dance, electro and ambient"
+106,107,latin,latin hip hop,perreo,reggaeton,reggaeton flow,trap latino,,,,,,,,,"latin,latin hip hop,perreo,reggaeton,reggaeton flow,trap latino",2OHKEe204spO7G7NcbeO2o,Ñejo,2311443,0.7,latin and reggaeton
+107,108,dance pop,house,pop dance,tropical house,uk dance,,,,,,,,,,"dance pop,house,pop dance,tropical house,uk dance",7i9j813KFoSBMldGqlh2Z1,Riton,71664,0.82,"dance, electro and ambient"
+108,109,chicago rap,conscious hip hop,hip hop,pop rap,rap,trap,underground hip hop,,,,,,,,"chicago rap,conscious hip hop,hip hop,pop rap,rap,trap,underground hip hop",27w1NoOLMX7tJMYqcetPyG,VIC MENSA,554663,0.68,"hip hop, r&b and soul"
+109,110,album rock,classic rock,mellow gold,rock,soft rock,yacht rock,,,,,,,,,"album rock,classic rock,mellow gold,rock,soft rock,yacht rock",77tT1kLj6mCWtFNqiOmP9H,Daryl Hall & John Oates,1469377,0.76,"rock, country and indie"
+110,111,latin,reggaeton,reggaeton flow,trap latino,,,,,,,,,,,"latin,reggaeton,reggaeton flow,trap latino",6w9ToX5slZ4uIdmD17hJ3c,Bryant Myers,4862783,0.82,latin and reggaeton
+111,112,trap latino,trap triste,urbano espanol,,,,,,,,,,,,"trap latino,trap triste,urbano espanol",0VZrPa7mWAYXH4CwmYk8Km,Kidd Keo,1615875,0.76,latin and reggaeton
+112,113,dance pop,electropop,pop,post-teen pop,,,,,,,,,,,"dance pop,electropop,pop,post-teen pop",4GvEc3ANtPPjt1ZJllr5Zl,Bazzi,4214510,0.81,"dance, electro and ambient"
+113,114,colombian pop,latin,latin pop,latin rock,tropical,,,,,,,,,,"colombian pop,latin,latin pop,latin rock,tropical",49Z1AvGeUaBSanPaOmplK6,Andrés Cepeda,1803218,0.66,"pop, new age and standards"
+114,115,carnaval cadiz,latin pop,pop flamenco,spanish pop,,,,,,,,,,,"carnaval cadiz,latin pop,pop flamenco,spanish pop",7qAoXV4U0qDxQAUqhszjAA,Manuel Carrasco,1608148,0.69,"pop, new age and standards"
+115,116,boy band,pop,post-teen pop,talent show,,,,,,,,,,,"boy band,pop,post-teen pop,talent show",4AK6F7OLvEQ5QYCBNiQWHq,One Direction,21119677,0.91,"pop, new age and standards"
+116,117,k-pop,,,,,,,,,,,,,,k-pop,7zYj9S9SdIunYCfSm7vzAR,SOMI,482885,0.61,"pop, new age and standards"
+117,118,urbano espanol,,,,,,,,,,,,,,urbano espanol,5UN0rzL594mWY2RbOtZqIN,Ptazeta,44993,0.63,latin and reggaeton
+118,119,dance pop,pop,post-teen pop,,,,,,,,,,,,"dance pop,pop,post-teen pop",5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,14914078,0.88,"dance, electro and ambient"
+119,120,dance pop,edm,pop,pop dance,post-teen pop,tropical house,uk dance,uk funky,,,,,,,"dance pop,edm,pop,pop dance,post-teen pop,tropical house,uk dance,uk funky",6MDME20pz9RveH9rEXvrOM,Clean Bandit,4312477,0.82,"dance, electro and ambient"
+120,121,folk-pop,modern rock,neo mellow,neo-singer-songwriter,pop,pop rock,,,,,,,,,"folk-pop,modern rock,neo mellow,neo-singer-songwriter,pop,pop rock",2ysnwxxNtSgbb9t1m2Ur4j,George Ezra,3429432,0.76,"pop, new age and standards"
+121,122,ohio hip hop,pop rap,,,,,,,,,,,,,"ohio hip hop,pop rap",6TIYQ3jFPwQSRmorSezPxX,Machine Gun Kelly,3432603,0.89,"hip hop, r&b and soul"
+122,123,detroit hip hop,hip hop,pop rap,rap,southern hip hop,trap,,,,,,,,,"detroit hip hop,hip hop,pop rap,rap,southern hip hop,trap",0c173mlxpT3dSFRgMO8XPh,Big Sean,8396290,0.85,"hip hop, r&b and soul"
+123,124,dance pop,pop,uk pop,,,,,,,,,,,,"dance pop,pop,uk pop",6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,24441906,0.95,"dance, electro and ambient"
+124,125,alternative metal,canadian metal,death metal,groove metal,metal,nu metal,progressive metal,vancouver metal,,,,,,,"alternative metal,canadian metal,death metal,groove metal,metal,nu metal,progressive metal,vancouver metal",457qPvtiBTIl6LR4dZiKZy,Strapping Young Lad,117155,0.47,"rock, country and indie"
+125,126,k-rap,,,,,,,,,,,,,,k-rap,5RmQ8k4l3HZ8JoPb4mNsML,Agust D,4575910,0.72,"hip hop, r&b and soul"
+126,127,latin,latin arena pop,latin pop,spanish pop,spanish pop rock,,,,,,,,,,"latin,latin arena pop,latin pop,spanish pop,spanish pop rock",4LbuSjHhhAddvN44qXpRJo,Amaia Montero,801257,0.61,latin and reggaeton
+127,128,contemporary country,,,,,,,,,,,,,,contemporary country,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,1727132,0.88,"rock, country and indie"
+128,129,pop rap,,,,,,,,,,,,,,pop rap,2RdwBSPQiwcmiDo9kixcl8,Pharrell Williams,3526545,0.82,"pop, new age and standards"
+129,130,latin rock,pop electronico,spanish indie pop,,,,,,,,,,,,"latin rock,pop electronico,spanish indie pop",1MbqzxZvHtdClX1cBKU2OG,Fuel Fandango,91101,0.53,"rock, country and indie"
+130,131,dance pop,dutch edm,edm,pop,pop dance,progressive house,tropical house,,,,,,,,"dance pop,dutch edm,edm,pop,pop dance,progressive house,tropical house",60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,14625892,0.83,"dance, electro and ambient"
+131,132,dance pop,pop,,,,,,,,,,,,,"dance pop,pop",4npEfmQ6YuiwW1GpUmaq3F,Ava Max,3353528,0.86,"dance, electro and ambient"
+132,133,electropop,pop,,,,,,,,,,,,,"electropop,pop",6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,42255951,0.92,"dance, electro and ambient"
+133,134,adult standards,classic country pop,country,mellow gold,nashville sound,soft rock,,,,,,,,,"adult standards,classic country pop,country,mellow gold,nashville sound,soft rock",4tw2Lmn9tTPUv7Gy7mVPI4,Kenny Rogers,1601374,0.73,"pop, new age and standards"
+134,135,pop flamenco,rumba,spanish pop,spanish pop rock,,,,,,,,,,,"pop flamenco,rumba,spanish pop,spanish pop rock",6flBUmmOMLNhD4EJhGwgpG,Camela,274519,0.61,"pop, new age and standards"
+135,136,latin pop,spanish pop,,,,,,,,,,,,,"latin pop,spanish pop",6k8mwkKJKKjBILo7ypBspl,Ana Mena,318362,0.73,"pop, new age and standards"
+136,137,dance pop,pop,pop rap,seattle hip hop,,,,,,,,,,,"dance pop,pop,pop rap,seattle hip hop",5BcAKTbp20cv7tC5VqPFoC,Macklemore & Ryan Lewis,2563739,0.78,"dance, electro and ambient"
+137,138,atl hip hop,dance pop,pop,r&b,south carolina hip hop,urban contemporary,,,,,,,,,"atl hip hop,dance pop,pop,r&b,south carolina hip hop,urban contemporary",23zg3TcAtWQy7J6upgbUnj,Usher,8654469,0.84,"hip hop, r&b and soul"
+138,139,chicago rap,melodic rap,,,,,,,,,,,,,"chicago rap,melodic rap",4MCBfE4596Uoi2O4DtmEMz,Juice WRLD,17082002,0.96,"hip hop, r&b and soul"
+139,140,atl hip hop,rap,trap,,,,,,,,,,,,"atl hip hop,rap,trap",1URnnhqYAYcrqrcwql10ft,21 Savage,9534820,0.87,"hip hop, r&b and soul"
+140,141,tropical house,,,,,,,,,,,,,,tropical house,1lmU3giNF3CSbkVSQmLpHQ,Surf Mesa,125704,0.74,"dance, electro and ambient"
+141,142,panamanian pop,reggae en espanol,,,,,,,,,,,,,"panamanian pop,reggae en espanol",5RLb16s3zfrdWdRF0l7xij,Kafu Banton,52268,0.52,"pop, new age and standards"
+142,143,batidao romantico,,,,,,,,,,,,,,batidao romantico,5JbQpbeFaKfuZVFzKwaawP,MC Rogerinho,172459,0.66,other
+143,144,pop,post-teen pop,talent show,uk pop,,,,,,,,,,,"pop,post-teen pop,talent show,uk pop",4IWBUUAFIplrNtaOHcJPRM,James Arthur,7950400,0.86,"pop, new age and standards"
+144,145,latin pop,spanish hip hop,spanish pop,,,,,,,,,,,,"latin pop,spanish hip hop,spanish pop",0ZHPrnImGh4re3TbSNkoZl,Beret,2292132,0.76,"pop, new age and standards"
+145,146,brooklyn drill,melodic rap,nyc rap,,,,,,,,,,,,"brooklyn drill,melodic rap,nyc rap",6jGMq4yGs7aQzuGsMgVgZR,Lil Tjay,2977544,0.91,other
+146,147,dembow,dominican pop,rap dominicano,trap latino,,,,,,,,,,,"dembow,dominican pop,rap dominicano,trap latino",5UopXhshFFqRIMfeZrBclq,Ceky Viciny,88149,0.61,latin and reggaeton
+147,148,classical performance,classical piano,,,,,,,,,,,,,"classical performance,classical piano",17yd2V3A2UmwD0a00hmjX5,Emanuel Ax,7292,0.46,other
+148,149,sertanejo,sertanejo universitario,,,,,,,,,,,,,"sertanejo,sertanejo universitario",1elUiq4X7pxej6FRlrEzjM,Jorge & Mateus,14383872,0.85,other
+149,150,,,,,,,,,,,,,,,,2apYMRrg5FxN4go0pfsCvf,Melanie Thornton,7142,0.35,"dance, electro and ambient"
+150,151,dance pop,edm,electropop,indietronica,metropopolis,pop,post-teen pop,tropical house,uk pop,,,,,,"dance pop,edm,electropop,indietronica,metropopolis,pop,post-teen pop,tropical house,uk pop",0X2BH1fck6amBIoJhDVmmJ,Ellie Goulding,9385094,0.83,"dance, electro and ambient"
+151,152,dance pop,edm,electro house,moombahton,pop,pop dance,pop rap,,,,,,,,"dance pop,edm,electro house,moombahton,pop,pop dance,pop rap",738wLrAtLtCtFOLvQBXOXp,Major Lazer,6191601,0.82,"dance, electro and ambient"
+152,153,adult standards,brill building pop,easy listening,lounge,rockabilly,vocal jazz,,,,,,,,,"adult standards,brill building pop,easy listening,lounge,rockabilly,vocal jazz",4cPHsZM98sKzmV26wlwD2W,Brenda Lee,209604,0.57,"pop, new age and standards"
+153,154,pop,post-teen pop,,,,,,,,,,,,,"pop,post-teen pop",06HL4z0CvFAxyc27GXpf02,Taylor Swift,39097062,0.99,"pop, new age and standards"
+154,155,k-pop,k-pop girl group,,,,,,,,,,,,,"k-pop,k-pop girl group",41MozSoPIsD1dJM0CLPjZF,BLACKPINK,21278470,0.87,"pop, new age and standards"
+155,156,reggaeton flow,,,,,,,,,,,,,,reggaeton flow,6NmMI7UnfmIpLRYoz8H9jm,Ankhal,12242,0.54,latin and reggaeton
+156,157,cubaton,pop venezolano,reggaeton,trap latino,,,,,,,,,,,"cubaton,pop venezolano,reggaeton,trap latino",7f02bxFbZIOVdSbYRNYvLT,Jerry Di,119323,0.71,latin and reggaeton
+157,158,spanish pop,spanish pop rock,,,,,,,,,,,,,"spanish pop,spanish pop rock",1EXjXQpDx2pROygh8zvHs4,Melendi,2535220,0.75,"pop, new age and standards"
+158,159,dance pop,pop,post-teen pop,r&b,,,,,,,,,,,"dance pop,pop,post-teen pop,r&b",6vWDO969PvNqNYHIOW5v0m,Beyoncé,27190580,0.88,"dance, electro and ambient"
+159,160,canadian pop,canadian singer-songwriter,classic canadian rock,heartland rock,mellow gold,pop rock,rock,soft rock,,,,,,,"canadian pop,canadian singer-songwriter,classic canadian rock,heartland rock,mellow gold,pop rock,rock,soft rock",3Z02hBLubJxuFJfhacLSDc,Bryan Adams,2086515,0.79,"pop, new age and standards"
+160,161,,,,,,,,,,,,,,,,2PaZWGu5T5nHjY2xxAkFsT,THE SCOTTS,177014,0.7,"dance, electro and ambient"
+161,162,movie tunes,,,,,,,,,,,,,,movie tunes,5Gejwv3xz2DpLcxVpMD6hL,Thurl Ravenscroft,3266,0.48,other
+162,163,latin,reggaeton,reggaeton colombiano,trap latino,,,,,,,,,,,"latin,reggaeton,reggaeton colombiano,trap latino",790FomKkXshlbRYZFtlgla,KAROL G,16151805,0.9,latin and reggaeton
+163,164,,,,,,,,,,,,,,,,6ONwLtT6vOzlO3pfZNAOMw,Paris Boy,18707,0.63,"dance, electro and ambient"
+164,165,latin viral pop,spanish pop,,,,,,,,,,,,,"latin viral pop,spanish pop",6X8uzem5Dbl4l2so4CeexD,Nil Moliner,126600,0.68,"pop, new age and standards"
+165,166,latin talent show,latin viral pop,,,,,,,,,,,,,"latin talent show,latin viral pop",6dvOnGc4bbTKOT12JJ2H6F,Maialen,19336,0.4,latin and reggaeton
+166,167,,,,,,,,,,,,,,,,1etnyde2WY88gYflxPABE2,Yago Roche,1693,0.44,"dance, electro and ambient"
+167,168,reggaeton flow,trap latino,,,,,,,,,,,,,"reggaeton flow,trap latino",7Kh6SBEGtFtqjYo5bN0ACG,Young Martino,11094,0.59,latin and reggaeton
+168,169,atl hip hop,atl trap,rap,trap,,,,,,,,,,,"atl hip hop,atl trap,rap,trap",5f7VJjfbwm532GiveGC0ZK,Lil Baby,6889323,0.93,"hip hop, r&b and soul"
+169,170,folk-pop,modern rock,pop,pop rock,,,,,,,,,,,"folk-pop,modern rock,pop,pop rock",10exVja0key0uqUkk6LJRT,Vance Joy,2350096,0.79,"pop, new age and standards"
+170,171,melodic rap,trap,,,,,,,,,,,,,"melodic rap,trap",1zNqQNIdeOUZHb8zbZRFMX,Swae Lee,1162277,0.84,"hip hop, r&b and soul"
+171,172,reggaeton,reggaeton flow,trap latino,,,,,,,,,,,,"reggaeton,reggaeton flow,trap latino",0Q8NcsJwoCbZOHHW63su5S,Mora,112771,0.78,latin and reggaeton
+172,173,latin,perreo,reggaeton,reggaeton flow,trap latino,,,,,,,,,,"latin,perreo,reggaeton,reggaeton flow,trap latino",7lCRuW6BSXGAsxuQV9lR0i,Gigolo Y La Exce,318159,0.67,latin and reggaeton
+173,174,chicago rap,,,,,,,,,,,,,,chicago rap,6QtgPSJPSzcnn7dPZ4VINp,King Von,977908,0.81,"hip hop, r&b and soul"
+174,175,latin viral rap,,,,,,,,,,,,,,latin viral rap,4iskZiURUeGrFszONfpCCB,TheGrefg,97216,0.49,latin and reggaeton
+175,176,adult standards,hollywood,lounge,torch song,vocal jazz,,,,,,,,,,"adult standards,hollywood,lounge,torch song,vocal jazz",0hItVPjwJLVZrFqOyIsxPf,Judy Garland,173350,0.54,"pop, new age and standards"
+176,177,baroque pop,emo,modern rock,,,,,,,,,,,,"baroque pop,emo,modern rock",20JZFwl6HVl6yg8a4H3ZqK,Panic! At The Disco,10661146,0.84,"pop, new age and standards"
+177,178,champeta,colombian pop,latin,latin pop,tropical,vallenato,,,,,,,,,"champeta,colombian pop,latin,latin pop,tropical,vallenato",4vhNDa5ycK0ST968ek7kRr,Carlos Vives,4364791,0.77,latin and reggaeton
+178,179,alt z,electropop,pop,,,,,,,,,,,,"alt z,electropop,pop",5IH6FPUwQTxPSXurCrcIov,Alec Benjamin,2618444,0.8,"dance, electro and ambient"
+179,180,vancouver indie,,,,,,,,,,,,,,vancouver indie,0e86yPdC41PGRkLp2Q1Bph,Mother Mother,1739019,0.82,"rock, country and indie"
+180,181,cologne hip hop,german reggae,reggae fusion,,,,,,,,,,,,"cologne hip hop,german reggae,reggae fusion",5tlNJfV9UIpgnbWmvUEFu7,Gentleman,404775,0.68,"hip hop, r&b and soul"
+181,182,canadian pop,pop,post-teen pop,viral pop,,,,,,,,,,,"canadian pop,pop,post-teen pop,viral pop",7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,32618335,0.89,"pop, new age and standards"
+182,183,electropop,pop,,,,,,,,,,,,,"electropop,pop",3KwmxIhSe9UTSEF37kwngR,SHAED,130999,0.69,"dance, electro and ambient"
+183,184,dance pop,edm,electro house,pop,pop dance,progressive electro house,tropical house,,,,,,,,"dance pop,edm,electro house,pop,pop dance,progressive electro house,tropical house",4AVFqumd2ogHFlRbKIjp1t,Alesso,3607693,0.8,"dance, electro and ambient"
+184,185,cantautor,latin,latin arena pop,latin pop,mexican pop,rock en espanol,spanish pop,,,,,,,,"cantautor,latin,latin arena pop,latin pop,mexican pop,rock en espanol,spanish pop",5sUrlPAHlS9NEirDB8SEbF,Alejandro Sanz,5059196,0.79,"rock, country and indie"
+185,186,rap,trap,,,,,,,,,,,,,"rap,trap",7A8S43ryYdbWpJKeHRZRcq,JACKBOYS,415466,0.75,"hip hop, r&b and soul"
+186,187,eurovision,latin talent show,latin viral pop,,,,,,,,,,,,"eurovision,latin talent show,latin viral pop",3Zs59sqZJ6fWQqWbRC8bOP,Natalia Lacunza,164069,0.63,"pop, new age and standards"
+187,188,modern alternative rock,modern rock,pop,,,,,,,,,,,,"modern alternative rock,modern rock,pop",77SW9BnxLY8rJ0RciFqkHh,The Neighbourhood,5993654,0.86,"rock, country and indie"
+188,189,pop r&b,r&b,,,,,,,,,,,,,"pop r&b,r&b",3wVXTWabe3viT0jF7DfjOL,Vedo,237101,0.71,"pop, new age and standards"
+189,190,album rock,birmingham metal,hard rock,metal,rock,,,,,,,,,,"album rock,birmingham metal,hard rock,metal,rock",6ZLTlhejhndI4Rh53vYhrY,Ozzy Osbourne,3539626,0.76,"rock, country and indie"
+190,191,hip hop,pop rap,rap,southern hip hop,trap,,,,,,,,,,"hip hop,pop rap,rap,southern hip hop,trap",6vXTefBL93Dj5IqAWq6OTv,French Montana,3917267,0.81,"hip hop, r&b and soul"
+191,192,latin viral pop,,,,,,,,,,,,,,latin viral pop,0ndVqPlOidgsJ4yB3Fc5ec,Adexe & Nau,556173,0.56,"pop, new age and standards"
+192,193,contemporary country,country dawn,pop,post-teen pop,texas country,,,,,,,,,,"contemporary country,country dawn,pop,post-teen pop,texas country",70kkdajctXSbqSMJbQO424,Kacey Musgraves,943849,0.76,"rock, country and indie"
+193,194,album rock,classic rock,mellow gold,rock,soft rock,yacht rock,,,,,,,,,"album rock,classic rock,mellow gold,rock,soft rock,yacht rock",08GQAI4eElDnROBrJRGE0X,Fleetwood Mac,6406983,0.85,"rock, country and indie"
+194,195,,,,,,,,,,,,,,,,5wKEwrUR2tRVMJyFv4d3nI,the wizzard,0,0.37,"dance, electro and ambient"
+195,196,dance pop,pop,post-teen pop,,,,,,,,,,,,"dance pop,pop,post-teen pop",1HY2Jd0NmPuamShAr6KMms,Lady Gaga,17197535,0.9,"dance, electro and ambient"
+196,197,rap espanol,trap triste,urbano espanol,,,,,,,,,,,,"rap espanol,trap triste,urbano espanol",1nwjHzOUQZsNYX8xoWiGVC,Funzo & Baby Loud,92274,0.67,"hip hop, r&b and soul"
+197,198,latin talent show,latin viral pop,,,,,,,,,,,,,"latin talent show,latin viral pop",2eZt452S4ObWNq3SM9ZdD1,Operación Triunfo 2020,26221,0.38,latin and reggaeton
+198,199,german hip hop,german pop,,,,,,,,,,,,,"german hip hop,german pop",13bDjug9N0pyv3ZUINjkDV,Bausa,949025,0.76,"hip hop, r&b and soul"
+199,200,german hip hop,,,,,,,,,,,,,,german hip hop,4WZGDpNwrC0vNQyl9QzF7d,Capital Bra,3995357,0.8,"hip hop, r&b and soul"
+200,201,hip hop,pop rap,rap,southern hip hop,trap,underground hip hop,,,,,,,,,"hip hop,pop rap,rap,southern hip hop,trap,underground hip hop",5dHt1vcEm9qb8fCyLcB3HL,A$AP Ferg,2936800,0.79,"hip hop, r&b and soul"
+201,202,funk carioca,nova mpb,pop,pop nacional,post-teen pop,,,,,,,,,,"funk carioca,nova mpb,pop,pop nacional,post-teen pop",6xF3XdxG7VHRmQmTJxRqX8,Manu Gavassi,645382,0.61,"hip hop, r&b and soul"
+202,203,christlicher rap,german hip hop,,,,,,,,,,,,,"christlicher rap,german hip hop",4lDiJcOJ2GLCK6p9q5BgfK,Kontra K,1771253,0.76,"hip hop, r&b and soul"
+203,204,adult standards,rock-and-roll,rockabilly,,,,,,,,,,,,"adult standards,rock-and-roll,rockabilly",43ZHCT0cAZBISjO8DG9PnE,Elvis Presley,5364138,0.81,"pop, new age and standards"
+204,205,cantautor,celtic rock,latin alternative,música pitiusa,rock en espanol,spanish new wave,spanish pop,,,,,,,,"cantautor,celtic rock,latin alternative,música pitiusa,rock en espanol,spanish new wave,spanish pop",3hIPQBm8PBt8B5aahP6cVP,Celtas Cortos,174070,0.56,"rock, country and indie"
+205,206,latin,latin hip hop,latin pop,pop reggaeton,reggaeton,reggaeton flow,trap latino,,,,,,,,"latin,latin hip hop,latin pop,pop reggaeton,reggaeton,reggaeton flow,trap latino",0GM7qgcRCORpGnfcN2tCiB,Tainy,395246,0.81,latin and reggaeton
+206,207,,,,,,,,,,,,,,,,2JbE7jUIGtpXSzytnyMg6U,Curtis Waters,64977,0.67,"dance, electro and ambient"
+207,208,,,,,,,,,,,,,,,,5hkhk70G8Pu9UCcfR7OKED,Javy Ramírez,20546,0.47,"dance, electro and ambient"
+208,209,gruperas inmortales,,,,,,,,,,,,,,gruperas inmortales,3bU9dXiTsi8mQCVbVJpWmx,Grupo Cariño,12028,0.34,other
+209,210,alt z,indie pop,la indie,pop,,,,,,,,,,,"alt z,indie pop,la indie,pop",0ZUvK7zGdXLd78mQr3t1Tw,Ricky Montgomery,603274,0.77,"dance, electro and ambient"
+210,211,contemporary country,country,country dawn,country road,,,,,,,,,,,"contemporary country,country,country dawn,country road",66lH4jAE7pqPlOlzUKbwA0,Miranda Lambert,2709756,0.76,"rock, country and indie"
+211,212,dance pop,pop,urban contemporary,,,,,,,,,,,,"dance pop,pop,urban contemporary",4iHNK0tOyZPYnBU7nGAgpQ,Mariah Carey,6605666,0.8,"dance, electro and ambient"
+212,213,adult standards,bebop,cool jazz,jazz,jazz fusion,jazz piano,vocal jazz,,,,,,,,"adult standards,bebop,cool jazz,jazz,jazz fusion,jazz piano,vocal jazz",4jXfFzeP66Zy67HM2mvIIF,Bill Evans,468590,0.67,"pop, new age and standards"
+213,214,electropop,pop,pop rap,,,,,,,,,,,,"electropop,pop,pop rap",2cFrymmkijnjDg9SS92EPM,blackbear,4105901,0.87,"dance, electro and ambient"
+214,215,neo soul,pop,pop soul,r&b,urban contemporary,,,,,,,,,,"neo soul,pop,pop soul,r&b,urban contemporary",5y2Xq6xcjJb2jVM54GHK3t,John Legend,5626742,0.83,"hip hop, r&b and soul"
+215,216,latin,reggaeton,reggaeton colombiano,trap latino,,,,,,,,,,,"latin,reggaeton,reggaeton colombiano,trap latino",1vyhD5VmyZ7KMfW5gqLgo5,J Balvin,27495909,0.95,latin and reggaeton
+216,217,new wave pop,,,,,,,,,,,,,,new wave pop,3bmFPbLMiLxtR9tFrTcKcP,Matthew Wilder,28988,0.65,"pop, new age and standards"
+217,218,europop,,,,,,,,,,,,,,europop,54R6Y0I7jGUCveDTtI21nb,Boney M.,953438,0.78,"pop, new age and standards"
+218,219,latin pop,trap latino,urbano espanol,,,,,,,,,,,,"latin pop,trap latino,urbano espanol",2t7vyRN71qtQT18frElAnV,Maikel Delacalle,324542,0.65,"pop, new age and standards"
+219,220,east coast hip hop,hardcore hip hop,hip hop,pop rap,rap,,,,,,,,,,"east coast hip hop,hardcore hip hop,hip hop,pop rap,rap",1YfEcTuGvBQ8xSD1f53UnK,Busta Rhymes,1755244,0.77,"hip hop, r&b and soul"
+220,221,,,,,,,,,,,,,,,,0YbqIxOpOJO7cOpGjMypRk,MERŌN,343,0.51,"dance, electro and ambient"
+221,222,canadian hip hop,canadian pop,hip hop,pop rap,rap,toronto rap,,,,,,,,,"canadian hip hop,canadian pop,hip hop,pop rap,rap,toronto rap",3TVXtAsR1Inumwj472S9r4,Drake,54404628,0.99,"hip hop, r&b and soul"
+222,223,canadian hip hop,hip hop,melodic rap,pop rap,r&b,rap,toronto rap,trap,,,,,,,"canadian hip hop,hip hop,melodic rap,pop rap,r&b,rap,toronto rap,trap",2jku7tDXc6XoB6MO2hFuqg,Tory Lanez,3638766,0.84,"hip hop, r&b and soul"
+223,224,dominican pop,trap latino,,,,,,,,,,,,,"dominican pop,trap latino",3NpG6SsHaQETkdQVZH6V1E,Kiko el Crazy,47669,0.65,"pop, new age and standards"
+224,225,colombian pop,reggaeton colombiano,,,,,,,,,,,,,"colombian pop,reggaeton colombiano",28gNT5KBp7IjEOQoevXf9N,Camilo,8609703,0.9,"pop, new age and standards"
+225,226,conscious hip hop,hip hop,north carolina hip hop,rap,,,,,,,,,,,"conscious hip hop,hip hop,north carolina hip hop,rap",6l3HvQ5sa6mXTsMTB19rO5,J. Cole,13146259,0.88,"hip hop, r&b and soul"
+226,227,,,,,,,,,,,,,,,,1iChBE5eMVIiJBpsUZ0rSH,Dardan Leistra,211,0.52,"dance, electro and ambient"
+227,228,colombian pop,latin,latin pop,reggaeton,reggaeton colombiano,trap latino,,,,,,,,,"colombian pop,latin,latin pop,reggaeton,reggaeton colombiano,trap latino",0tmwSHipWxN12fsoLcFU3B,Manuel Turizo,7333637,0.86,"pop, new age and standards"
+228,229,alt z,canadian contemporary r&b,canadian pop,dance pop,electropop,pop,post-teen pop,viral pop,,,,,,,"alt z,canadian contemporary r&b,canadian pop,dance pop,electropop,pop,post-teen pop,viral pop",2wUjUUtkb5lvLKcGKsKqsR,Alessia Cara,8777128,0.81,"dance, electro and ambient"
+229,230,south african house,,,,,,,,,,,,,,south african house,523y9KSneKh6APd1hKxLuF,Master KG,213811,0.71,"dance, electro and ambient"
+230,231,pop,pop rap,r&b,rap,toronto rap,trap,urban contemporary,,,,,,,,"pop,pop rap,r&b,rap,toronto rap,trap,urban contemporary",2HPaUgqeutzr3jx5a9WyDV,PARTYNEXTDOOR,2945851,0.81,"pop, new age and standards"
+231,232,cantautor,latin,latin pop,mexican pop,musica canaria,nueva cancion,spanish pop,,,,,,,,"cantautor,latin,latin pop,mexican pop,musica canaria,nueva cancion,spanish pop",5ttV0N9HvMH3KLqNKcS2M0,Rosana,586852,0.66,"rock, country and indie"
+232,233,german hip hop,,,,,,,,,,,,,,german hip hop,5j21TGkrNEAJe3gG9VlS34,Shindy,790937,0.71,"hip hop, r&b and soul"
+233,234,urbano espanol,,,,,,,,,,,,,,urbano espanol,6gyhsZUy2fzzWZBRVPmOw4,Soto Asa,52204,0.56,latin and reggaeton
+234,235,rap boricua,,,,,,,,,,,,,,rap boricua,1MVP5iQH6wMKZuOn41UHOB,Jey Blessing,2200,0.55,"hip hop, r&b and soul"
+235,236,dmv rap,pop,r&b,rap,,,,,,,,,,,"dmv rap,pop,r&b,rap",3tlXnStJ1fFhdScmQeLpuG,Brent Faiyaz,1544847,0.82,"hip hop, r&b and soul"
+236,237,german cloud rap,german hip hop,,,,,,,,,,,,,"german cloud rap,german hip hop",5pVRwX5ZQR7hfJ18w8ZYkl,Ufo361,1660632,0.79,"hip hop, r&b and soul"
+237,238,dance pop,miami hip hop,pop,post-teen pop,urban contemporary,,,,,,,,,,"dance pop,miami hip hop,pop,post-teen pop,urban contemporary",6S0dmVVn4udvppDhZIWxCr,Sean Kingston,2088127,0.75,"dance, electro and ambient"
+238,239,trap latino,urbano espanol,,,,,,,,,,,,,"trap latino,urbano espanol",6vPXtLmNd3mW0dd1Rb9eQ9,Don Patricio,487160,0.66,latin and reggaeton
+239,240,turkish hip hop,turkish trap,,,,,,,,,,,,,"turkish hip hop,turkish trap",6LnJKrtFnTEGdbWQ2riWCL,Ezhel,3699924,0.76,"hip hop, r&b and soul"
+240,241,,,,,,,,,,,,,,,,6xKZIV7sBoUHmRRHjuMtu3,Slade Da Monsta,331,0.5,"dance, electro and ambient"
+241,242,latin,latin hip hop,reggaeton,reggaeton flow,trap latino,,,,,,,,,,"latin,latin hip hop,reggaeton,reggaeton flow,trap latino",00XhexlJEXQstHimpZN910,Brytiago,3704032,0.8,latin and reggaeton
+242,243,indie poptimism,pop,post-teen pop,,,,,,,,,,,,"indie poptimism,pop,post-teen pop",2feDdbD5araYcm6JhFHHw7,Labrinth,1596577,0.83,"pop, new age and standards"
+243,244,atl trap,memphis hip hop,rap,southern hip hop,trap,,,,,,,,,,"atl trap,memphis hip hop,rap,southern hip hop,trap",3Rx4PJ7SP6unkOk5elPUK7,Money Man,319386,0.72,"hip hop, r&b and soul"
+244,245,pop,post-teen pop,,,,,,,,,,,,,"pop,post-teen pop",6KImCVD70vtIoJWnq6nGn3,Harry Styles,14341851,0.9,"pop, new age and standards"
+245,246,adult standards,brill building pop,motown,,,,,,,,,,,,"adult standards,brill building pop,motown",391oLRVmoTkumiN79HkTWu,Darlene Love,37970,0.46,"pop, new age and standards"
+246,247,afroswing,london rap,uk alternative hip hop,uk hip hop,,,,,,,,,,,"afroswing,london rap,uk alternative hip hop,uk hip hop",5zfEatKLDdRkgbw6sdLBAQ,Octavian,207367,0.68,other
+247,248,brega funk,funk carioca,,,,,,,,,,,,,"brega funk,funk carioca",2Cra8I2P4OnMkVguqZRVwi,Felipe Original,61745,0.59,"hip hop, r&b and soul"
+248,249,cumbia sonidera,,,,,,,,,,,,,,cumbia sonidera,52ivkXWNAGc5rzS5H3ZIwK,Grupo Jujuy,13254,0.41,other
+249,250,latin pop,latin talent show,spanish pop,,,,,,,,,,,,"latin pop,latin talent show,spanish pop",7eLcDZDYHXZCebtQmVFL25,Aitana,1439563,0.75,"pop, new age and standards"
+250,251,electropop,hopebeat,indie cafe pop,indie pop,indie poptimism,modern alternative rock,modern rock,pop,pop rock,,,,,,"electropop,hopebeat,indie cafe pop,indie pop,indie poptimism,modern alternative rock,modern rock,pop,pop rock",6d4jrmreCmsenscuieJERc,The Band CAMINO,234640,0.68,"dance, electro and ambient"
+251,252,afroswing,uk hip hop,,,,,,,,,,,,,"afroswing,uk hip hop",6M6XXCcO5gI68XpIlrUL3Z,Young T & Bugsey,245944,0.71,other
+252,253,sertanejo,sertanejo universitario,,,,,,,,,,,,,"sertanejo,sertanejo universitario",7MiDcPa6UiV3In7lIM71IN,Gusttavo Lima,11989393,0.84,other
+253,254,escape room,hip hop,political hip hop,,,,,,,,,,,,"escape room,hip hop,political hip hop",4RnBFZRiMLRyZy0AzzTg2C,Run The Jewels,890446,0.69,other
+254,255,latin,latin hip hop,reggaeton,reggaeton flow,trap latino,,,,,,,,,,"latin,latin hip hop,reggaeton,reggaeton flow,trap latino",21451j1KhjAiaYKflxBjr1,Zion & Lennox,5294868,0.81,latin and reggaeton
+255,256,latin pop,viral pop,,,,,,,,,,,,,"latin pop,viral pop",6i3DxIlAqnDkwELLw4aVrx,Lele Pons,716654,0.72,"pop, new age and standards"
+256,257,k-pop,k-pop girl group,,,,,,,,,,,,,"k-pop,k-pop girl group",7n2Ycct7Beij7Dj7meI4X0,TWICE,8800424,0.83,"pop, new age and standards"
+257,258,funk carioca,,,,,,,,,,,,,,funk carioca,5uYe4bcAXlMP7d4mrOYkML,Niack,327243,0.68,"hip hop, r&b and soul"
+258,259,brooklyn drill,nyc rap,,,,,,,,,,,,,"brooklyn drill,nyc rap",6EPlBSH2RSiettczlz7ihV,Sleepy Hallow,255620,0.75,other
+259,260,reggaeton,reggaeton flow,trap latino,,,,,,,,,,,,"reggaeton,reggaeton flow,trap latino",384MqcXCGGFh9UcjI5Tpc5,Eix,14549,0.62,latin and reggaeton
+260,261,alternative r&b,melodic rap,pop rap,,,,,,,,,,,,"alternative r&b,melodic rap,pop rap",7uaIm6Pw7xplS8Dy06V6pT,Trevor Daniel,604770,0.77,"hip hop, r&b and soul"
+261,262,frauenrap,german pop,,,,,,,,,,,,,"frauenrap,german pop",0JBdTCGs111JKKYfLqOEBa,Shirin David,518318,0.64,"hip hop, r&b and soul"
+262,263,sertanejo pop,,,,,,,,,,,,,,sertanejo pop,7M83IzPXGA4ClZJ5reW2Ro,Douglas & Vinicius,50323,0.67,"pop, new age and standards"
+263,264,k-pop,,,,,,,,,,,,,,k-pop,3HqSLMAZ3g3d5poNaI7GOU,IU,3941542,0.8,"pop, new age and standards"
+264,265,italian hip hop,trap italiana,,,,,,,,,,,,,"italian hip hop,trap italiana",0VitAFMCI2apQxKzDjg1PU,BLOODY VINYL,90974,0.66,"hip hop, r&b and soul"
+265,266,melodic rap,rap,trap,,,,,,,,,,,,"melodic rap,rap,trap",6Xgp2XMz1fhVYe7i6yNAax,Trippie Redd,6098789,0.88,"hip hop, r&b and soul"
+266,267,north carolina hip hop,rap,,,,,,,,,,,,,"north carolina hip hop,rap",4r63FhuTkUYltbVAg5TQnk,DaBaby,6619477,0.94,"hip hop, r&b and soul"
+267,268,atl hip hop,hip hop,pop rap,rap,trap,,,,,,,,,,"atl hip hop,hip hop,pop rap,rap,trap",6oMuImdp5ZcFhWP0ESe6mG,Migos,11379054,0.83,"hip hop, r&b and soul"
+268,269,latin viral pop,spanish pop,,,,,,,,,,,,,"latin viral pop,spanish pop",0zuqz96cs1dQcxc2FpLPcR,Sofia Ellar,126556,0.59,"pop, new age and standards"
+269,270,gospel,naija worship,world worship,,,,,,,,,,,,"gospel,naija worship,world worship",77HU1Zb1VDIFvWKteJii0E,Israel & New Breed,228685,0.57,other
+270,271,dance pop,edm,electro house,house,pop,pop dance,progressive house,uk dance,,,,,,,"dance pop,edm,electro house,house,pop,pop dance,progressive house,uk dance",7CajNmpbOovFoOoasH2HaY,Calvin Harris,21607797,0.88,"dance, electro and ambient"
+271,272,bedroom soul,pop,,,,,,,,,,,,,"bedroom soul,pop",1W7FNibLa0O0b572tB2w7t,Pink Sweat$,732963,0.8,"hip hop, r&b and soul"
+272,273,album rock,art rock,beatlesque,classic rock,folk rock,mellow gold,rock,,,,,,,,"album rock,art rock,beatlesque,classic rock,folk rock,mellow gold,rock",4x1nvY2FN8jxqAFA0DA02H,John Lennon,4113066,0.75,"rock, country and indie"
+273,274,belgian hip hop,french hip hop,pop urbaine,rap belge,rap conscient,,,,,,,,,,"belgian hip hop,french hip hop,pop urbaine,rap belge,rap conscient",2UwqpfQtNuhBwviIC0f2ie,Damso,2885511,0.81,"hip hop, r&b and soul"
+274,275,,,,,,,,,,,,,,,,4hadtPX6kKntrnA87Zdy01,Scott Storch,8661,0.54,"dance, electro and ambient"
+275,276,alt z,canadian contemporary r&b,canadian pop,dance pop,pop,post-teen pop,r&b,,,,,,,,"alt z,canadian contemporary r&b,canadian pop,dance pop,pop,post-teen pop,r&b",3KedxarmBCyFBevnqQHy3P,Jessie Reyez,935975,0.75,"dance, electro and ambient"
+276,277,latin,reggaeton,reggaeton flow,trap latino,,,,,,,,,,,"latin,reggaeton,reggaeton flow,trap latino",2DspEsT7UXGKd2VaaedgG4,Alex Rose,1960397,0.79,latin and reggaeton
+277,278,classic rock,glam rock,rock,,,,,,,,,,,,"classic rock,glam rock,rock",1dfeR4HaWDbWqFHLkxsg1d,Queen,33763966,0.9,"rock, country and indie"
+278,279,australian country,australian pop,contemporary country,country,country road,,,,,,,,,,"australian country,australian pop,contemporary country,country,country road",0u2FHSq3ln94y5Q57xazwf,Keith Urban,4171247,0.78,"rock, country and indie"
+279,280,latin viral pop,rap espanol,spanish pop,,,,,,,,,,,,"latin viral pop,rap espanol,spanish pop",1aMt4A5jrQHxDYyC7rXgV0,Pol Granch,96905,0.65,"pop, new age and standards"
+280,281,dance pop,pop,pop rap,post-teen pop,r&b,urban contemporary,,,,,,,,,"dance pop,pop,pop rap,post-teen pop,r&b,urban contemporary",0cGUm45nv7Z6M6qdXYQGTX,Kehlani,4592592,0.82,"dance, electro and ambient"
+281,282,uk hip hop,,,,,,,,,,,,,,uk hip hop,6UCQYrcJ6wab6gnQ89OJFh,Headie One,298003,0.75,"hip hop, r&b and soul"
+282,283,celtic,celtic punk,celtic rock,folk punk,irish folk,punk,,,,,,,,,"celtic,celtic punk,celtic rock,folk punk,irish folk,punk",2wzMOQwNT6ZvVB4amvhFAH,The Pogues,370636,0.61,other
+283,284,adult standards,christmas instrumental,jazz trio,,,,,,,,,,,,"adult standards,christmas instrumental,jazz trio",4ytkhMSAnrDP8XzRNlw9FS,Vince Guaraldi Trio,95949,0.52,"pop, new age and standards"
+284,285,bedroom pop,,,,,,,,,,,,,,bedroom pop,7MPGCB854Qo4alYMOPkBka,Ritt Momney,94075,0.73,"pop, new age and standards"
+285,286,dance pop,edm,pop,pop dance,,,,,,,,,,,"dance pop,edm,pop,pop dance",1vCWHaC5f2uS3yhpwWbIA6,Avicii,19632621,0.86,"dance, electro and ambient"
+286,287,dance pop,electro latino,latin,latin pop,reggaeton,spanish pop,,,,,,,,,"dance pop,electro latino,latin,latin pop,reggaeton,spanish pop",1ackd5XprZEkH3McKbQD51,Juan Magán,1567748,0.76,"dance, electro and ambient"
+287,288,indie rock,modern alternative rock,modern rock,rock,,,,,,,,,,,"indie rock,modern alternative rock,modern rock,rock",4kI8Ie27vjvonwaB2ePh8T,Portugal. The Man,1220758,0.72,"rock, country and indie"
+288,289,adult standards,blues rock,classic rock,rock,rock-and-roll,rockabilly,soul,,,,,,,,"adult standards,blues rock,classic rock,rock,rock-and-roll,rockabilly,soul",293zczrfYafIItmnmM3coR,Chuck Berry,1376281,0.69,"pop, new age and standards"
+289,290,atl hip hop,pop rap,rap,southern hip hop,trap,,,,,,,,,,"atl hip hop,pop rap,rap,southern hip hop,trap",1RyvyyTE3xzB2ZywiAwp0i,Future,10140602,0.91,"hip hop, r&b and soul"
+290,291,italian adult pop,italian indie pop,,,,,,,,,,,,,"italian adult pop,italian indie pop",2QWrpLRDeBD1NwWAsytBRi,Diodato,105215,0.58,"pop, new age and standards"
+291,292,meme rap,sad rap,vapor trap,viral rap,,,,,,,,,,,"meme rap,sad rap,vapor trap,viral rap",5TbLOwv8BNnik3f03NZJlt,TOKYO’S REVENGE,282733,0.69,"hip hop, r&b and soul"
+292,293,k-pop,k-pop girl group,,,,,,,,,,,,,"k-pop,k-pop girl group",1z4g3DjTBBZKhvAroFlhOM,Red Velvet,5216690,0.76,"pop, new age and standards"
+293,294,colombian pop,latin,latin pop,reggaeton,reggaeton colombiano,trap latino,,,,,,,,,"colombian pop,latin,latin pop,reggaeton,reggaeton colombiano,trap latino",4bw2Am3p9ji3mYsXNXtQcd,Piso 21,6902903,0.81,"pop, new age and standards"
+294,295,pop rap,,,,,,,,,,,,,,pop rap,6USMTwO0MNDnKte5a5h0xx,Y2K,265187,0.71,"pop, new age and standards"
+295,296,dutch pop,dutch rap pop,,,,,,,,,,,,,"dutch pop,dutch rap pop",5wV3FoaNbDB6X9INuQvs1K,Bilal Wahib,32298,0.65,"pop, new age and standards"
+296,297,contemporary country,,,,,,,,,,,,,,contemporary country,718COspgdWOnwOFpJHRZHS,Luke Combs,4810038,0.85,"rock, country and indie"
+297,298,german hip hop,,,,,,,,,,,,,,german hip hop,6ynopZPMBXcIGBI9M02Un5,Haftbefehl,501722,0.7,"hip hop, r&b and soul"
+298,299,viral rap,,,,,,,,,,,,,,viral rap,3O5HD95HTEPgoPFOjAb7yV,DripReport,90369,0.65,"hip hop, r&b and soul"
+299,300,dance pop,edm,pop dance,pop edm,slap house,tropical house,,,,,,,,,"dance pop,edm,pop dance,pop edm,slap house,tropical house",4ofCBoyEiGSePFAG500xev,Regard,133517,0.8,"dance, electro and ambient"
+300,301,modern rock,rock,,,,,,,,,,,,,"modern rock,rock",53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,33849018,0.9,"rock, country and indie"
+301,302,argentine hip hop,trap argentino,trap latino,trap triste,,,,,,,,,,,"argentine hip hop,trap argentino,trap latino,trap triste",1bAftSH8umNcGZ0uyV7LMg,Duki,4013213,0.84,"hip hop, r&b and soul"
+302,303,colombian pop,latin,latin pop,reggaeton,reggaeton colombiano,trap latino,,,,,,,,,"colombian pop,latin,latin pop,reggaeton,reggaeton colombiano,trap latino",07YUOmWljBTXwIseAUd9TW,Sebastian Yatra,15266975,0.86,"pop, new age and standards"
+303,304,sertanejo pop,,,,,,,,,,,,,,sertanejo pop,6m6e7D2TnV0aYMllFFwMxu,Guilherme & Benuto,170924,0.75,"pop, new age and standards"
+304,305,flamenco urbano,pop flamenco,,,,,,,,,,,,,"flamenco urbano,pop flamenco",6E94QKXZv8BbO6QQJxcxLI,Daviles de Novelda,100590,0.71,latin and reggaeton
+305,306,electro latino,latin,latin pop,spanish pop,,,,,,,,,,,"electro latino,latin,latin pop,spanish pop",30HlKUFTsqlFQsPfyv2yuM,Danny Romero,339894,0.62,"dance, electro and ambient"
+306,307,trap latino,trap venezolano,,,,,,,,,,,,,"trap latino,trap venezolano",6ZtLRqHEkAXPWVw0eRbDac,Jeeiph,116646,0.67,latin and reggaeton
+307,308,adult standards,brill building pop,easy listening,lounge,,,,,,,,,,,"adult standards,brill building pop,easy listening,lounge",5v8jlSmAQfrkTjAlpUfWtu,Perry Como,316620,0.6,"pop, new age and standards"
+308,309,classical guitar,italian classical guitar,,,,,,,,,,,,,"classical guitar,italian classical guitar",2YJcIfhIWamtbWZkSxj4x5,Flavio Cucchi,737,0.42,other
+309,310,latin,reggaeton,reggaeton flow,trap boricua,trap latino,,,,,,,,,,"latin,reggaeton,reggaeton flow,trap boricua,trap latino",2R21vXR83lH98kGeO99Y66,Anuel AA,17219781,0.91,latin and reggaeton
+310,311,dominican pop,,,,,,,,,,,,,,dominican pop,5AmJYBIvICxss43P05MkU8,La Ross Maria,115929,0.6,"pop, new age and standards"
+311,312,latin,reggaeton,reggaeton flow,trap latino,,,,,,,,,,,"latin,reggaeton,reggaeton flow,trap latino",6HqgxkTt9KGyt27zYrwVan,Super Yei,262800,0.73,latin and reggaeton
+312,313,venezuelan hip hop,,,,,,,,,,,,,,venezuelan hip hop,5GcWBUX00IPuWVGMIRK1sS,Residente,855066,0.66,"hip hop, r&b and soul"
+313,314,bedroom pop,pop,,,,,,,,,,,,,"bedroom pop,pop",3l0CmX0FuQjFxr8SK7Vqag,Clairo,2490570,0.82,"pop, new age and standards"
+314,315,danish pop,pop,scandipop,,,,,,,,,,,,"danish pop,pop,scandipop",25u4wHJWxCA9vO0CzxAbK7,Lukas Graham,1798397,0.77,"pop, new age and standards"
+315,316,bedroom pop,indie garage rock,san diego indie,,,,,,,,,,,,"bedroom pop,indie garage rock,san diego indie",3BBCgZVbXFRzcnT1ewVfRt,TEMPOREX,203478,0.58,"pop, new age and standards"
+316,317,afrofuturism,dance pop,electropop,pop,post-teen pop,,,,,,,,,,"afrofuturism,dance pop,electropop,pop,post-teen pop",3rWZHrfrsPBxVy692yAIxF,WILLOW,1125678,0.76,other
+317,318,classic uk pop,europop,new wave pop,rock-and-roll,rockabilly,soft rock,,,,,,,,,"classic uk pop,europop,new wave pop,rock-and-roll,rockabilly,soft rock",0wi4yTYlGtEnbGo4ltZTib,Shakin' Stevens,95598,0.55,"pop, new age and standards"
+318,319,reggaeton,reggaeton flow,trap latino,,,,,,,,,,,,"reggaeton,reggaeton flow,trap latino",65jIUih0ZeTUJhSTRuYxpi,Omy de Oro,68173,0.65,latin and reggaeton
+319,320,modern rock,,,,,,,,,,,,,,modern rock,7gHscNMDI8FF8pcgrV8eIn,Matt Maeson,300692,0.71,"rock, country and indie"
+320,321,atl hip hop,hip hop,melodic rap,rap,southern hip hop,trap,underground hip hop,,,,,,,,"atl hip hop,hip hop,melodic rap,rap,southern hip hop,trap,underground hip hop",6icQOAFXDZKsumw3YXyusw,Lil Yachty,7130216,0.83,"hip hop, r&b and soul"
+321,322,modern indie pop,,,,,,,,,,,,,,modern indie pop,7gXb99Sf9nNmpNYeAgIQFG,Sub Urban,781117,0.74,"pop, new age and standards"
+322,323,,,,,,,,,,,,,,,,3fzwnXOacJxjIFyGEr2WEN,Samantha Nelson,172,0.47,"dance, electro and ambient"
+323,324,dance pop,pop,post-teen pop,uk pop,,,,,,,,,,,"dance pop,pop,post-teen pop,uk pop",2wY79sveU1sp5g7SokKOiI,Sam Smith,16263619,0.88,"dance, electro and ambient"
+324,325,flamenco urbano,pop flamenco,,,,,,,,,,,,,"flamenco urbano,pop flamenco",4MU4rC7z6JpqxqbHDqtz7H,Keen Levy,55402,0.66,latin and reggaeton
+325,326,modern rock,rock,,,,,,,,,,,,,"modern rock,rock",3YQKmKGau1PzlVlkL1iodx,Twenty One Pilots,20202895,0.87,"rock, country and indie"
+326,327,hip hop,ohio hip hop,rap,,,,,,,,,,,,"hip hop,ohio hip hop,rap",0fA0VVWsXO9YnASrzqfmYu,Kid Cudi,4776811,0.87,"hip hop, r&b and soul"
+327,328,r&b en espanol,spanish hip hop,trap latino,urbano espanol,,,,,,,,,,,"r&b en espanol,spanish hip hop,trap latino,urbano espanol",2IMZYfNi21MGqxopj9fWx8,Rels B,2510898,0.8,"hip hop, r&b and soul"
+328,329,,,,,,,,,,,,,,,,4tRIJ4uToKp0kihbqnZJML,Chica Sobresalto,28645,0.48,"dance, electro and ambient"
+329,330,drill francais,,,,,,,,,,,,,,drill francais,76Pl0epAMXVXJspaSuz8im,Freeze corleone,286963,0.73,other
+330,331,chicago soul,classic soul,funk,motown,neo soul,quiet storm,soul,southern soul,,,,,,,"chicago soul,classic soul,funk,motown,neo soul,quiet storm,soul,southern soul",0HU0U9kdXEHZVxUNbuQe8S,Donny Hathaway,407440,0.63,"hip hop, r&b and soul"
+331,332,funk carioca,funk pop,pagode baiano,pop nacional,,,,,,,,,,,"funk carioca,funk pop,pagode baiano,pop nacional",3CDoRporvSjdzTrm99a3gi,LUDMILLA,3899181,0.78,"hip hop, r&b and soul"
+332,333,hip hop,pittsburgh rap,rap,,,,,,,,,,,,"hip hop,pittsburgh rap,rap",4LLpKhyESsyAXpc4laK94U,Mac Miller,5797222,0.87,"hip hop, r&b and soul"
+333,334,alt z,australian pop,indie cafe pop,pop,pop rock,post-teen pop,,,,,,,,,"alt z,australian pop,indie cafe pop,pop,pop rock,post-teen pop",3QSQFmccmX81fWCUSPTS7y,Dean Lewis,1593650,0.79,"dance, electro and ambient"
+334,335,australian pop,dance pop,electropop,pop,post-teen pop,viral pop,,,,,,,,,"australian pop,dance pop,electropop,pop,post-teen pop,viral pop",3WGpXCj9YhhfX11TToZcXP,Troye Sivan,5595479,0.81,"pop, new age and standards"
+335,336,alternative r&b,chill r&b,indie r&b,pop,,,,,,,,,,,"alternative r&b,chill r&b,indie r&b,pop",0imE3buPhAowREqCrr4CYe,Peach Tree Rascals,164383,0.69,"hip hop, r&b and soul"
+336,337,nyc rap,underground hip hop,,,,,,,,,,,,,"nyc rap,underground hip hop",7MigDh04CCntQbsBvugEmb,Marlon Craft,48941,0.54,"hip hop, r&b and soul"
+337,338,scandipop,tropical house,,,,,,,,,,,,,"scandipop,tropical house",7nqlScm2smydSRl13eaP8E,Nea,35651,0.73,"pop, new age and standards"
+338,339,sertanejo pop,sertanejo universitario,,,,,,,,,,,,,"sertanejo pop,sertanejo universitario",3p7PcrEHaaKLJnPUGOtRlT,Henrique & Juliano,12910282,0.8,"pop, new age and standards"
+339,340,,,,,,,,,,,,,,,,7avo0PmlW8O1YLEt9DnWQT,Studio Killers,173655,0.66,"dance, electro and ambient"
+340,341,latin,latin pop,pop venezolano,reggaeton,trap latino,,,,,,,,,,"latin,latin pop,pop venezolano,reggaeton,trap latino",5H1nN1SzW0qNeUEZvuXjAj,Danny Ocean,2932068,0.78,latin and reggaeton
+341,342,latin,latin hip hop,reggaeton,reggaeton flow,trap latino,,,,,,,,,,"latin,latin hip hop,reggaeton,reggaeton flow,trap latino",3RtNN1VnooWEn3KQk03DUL,Noriel,4500386,0.78,latin and reggaeton
+342,343,,,,,,,,,,,,,,,,2PctE0f82UrDM9CR3SXXGo,Alcover,1912,0.39,"dance, electro and ambient"
+343,344,latin,latin pop,latin viral pop,mexican pop,pop,,,,,,,,,,"latin,latin pop,latin viral pop,mexican pop,pop",5xSx2FM8mQnrfgM1QsHniB,Danna Paola,2620830,0.8,latin and reggaeton
+344,345,emo rap,,,,,,,,,,,,,,emo rap,7gZfnEnfiaHzxARJ2LeXrf,6ix9ine,6434317,0.79,"hip hop, r&b and soul"
+345,346,glam rock,mellow gold,piano rock,soft rock,,,,,,,,,,,"glam rock,mellow gold,piano rock,soft rock",3PhoLpVuITZKcymswpck5b,Elton John,6981688,0.85,"rock, country and indie"
+346,347,k-pop,k-pop boy group,,,,,,,,,,,,,"k-pop,k-pop boy group",3Nrfpe0tUJi4K4DXYWgMUX,BTS,31951873,0.96,"pop, new age and standards"
+347,348,k-pop girl group,,,,,,,,,,,,,,k-pop girl group,4gOc8TsQed9eqnqJct2c5v,K/DA,1097847,0.74,"pop, new age and standards"
+348,349,cali rap,gangster rap,hip hop,pop rap,rap,southern hip hop,trap,,,,,,,,"cali rap,gangster rap,hip hop,pop rap,rap,southern hip hop,trap",0A0FS04o6zMoto8OKPsDwY,YG,2577910,0.81,"hip hop, r&b and soul"
+349,350,atl hip hop,atl trap,gangster rap,melodic rap,pop rap,rap,trap,,,,,,,,"atl hip hop,atl trap,gangster rap,melodic rap,pop rap,rap,trap",50co4Is1HCEo8bhOyUWKpn,Young Thug,6142897,0.92,"hip hop, r&b and soul"
+350,351,cancion melodica,latin,latin pop,,,,,,,,,,,,"cancion melodica,latin,latin pop",5RwfJb8wxN1fuodcPORVxP,José Luis Perales,1318115,0.68,other
+351,352,alternative hip hop,,,,,,,,,,,,,,alternative hip hop,3AA28KZvwAUcZuOKwyblJQ,Gorillaz,6868442,0.83,"hip hop, r&b and soul"
+352,353,dance pop,pop,,,,,,,,,,,,,"dance pop,pop",31TPClRtHm23RisEBtV3X7,Justin Timberlake,10693244,0.84,"dance, electro and ambient"
+353,354,,,,,,,,,,,,,,,,6pvz7OwdRHemko3hrQygJb,El Completo Rd,1824,0.48,"dance, electro and ambient"
+354,355,dance pop,pop,post-teen pop,,,,,,,,,,,,"dance pop,pop,post-teen pop",1Hsdzj7Dlq2I7tHP7501T4,Niall Horan,7162640,0.82,"dance, electro and ambient"
+355,356,funk,motown,soul,,,,,,,,,,,,"funk,motown,soul",7GaxyUddsPok8BuhxN6OUW,James Brown,1714442,0.69,"hip hop, r&b and soul"
+356,357,alternative pop rock,pop,,,,,,,,,,,,,"alternative pop rock,pop",6USv9qhCn6zfxlBQIYJ9qs,Dominic Fike,512589,0.78,"pop, new age and standards"
+357,358,mexican hip hop,r&b en espanol,urbano espanol,,,,,,,,,,,,"mexican hip hop,r&b en espanol,urbano espanol",1Ixof0imwzqpuV21Ug9pKn,Choclock,45105,0.51,"hip hop, r&b and soul"
+358,359,memphis hip hop,,,,,,,,,,,,,,memphis hip hop,0ErzCpIMyLcjPiwT4elrtZ,NLE Choppa,3012891,0.81,"hip hop, r&b and soul"
+359,360,latin,latin hip hop,reggaeton,reggaeton flow,trap latino,,,,,,,,,,"latin,latin hip hop,reggaeton,reggaeton flow,trap latino",12vb80Km0Ew53ABfJOepVz,Ñengo Flow,2419210,0.82,latin and reggaeton
+360,361,atl hip hop,rap,trap,,,,,,,,,,,,"atl hip hop,rap,trap",699OTQXzgjhIYAHMy9RyPD,Playboi Carti,4613853,0.84,"hip hop, r&b and soul"
+361,362,alt z,modern alternative rock,modern rock,rock,,,,,,,,,,,"alt z,modern alternative rock,modern rock,rock",4ZgQDCtRqZlhLswVS6MHN4,grandson,820370,0.77,"dance, electro and ambient"
+362,363,latin,latin arena pop,latin pop,mexican pop,,,,,,,,,,,"latin,latin arena pop,latin pop,mexican pop",0vR2qb8m9WHeZ5ByCbimq2,Reik,5725526,0.83,latin and reggaeton
+363,364,acoustic pop,neo mellow,pop,pop rock,viral pop,,,,,,,,,,"acoustic pop,neo mellow,pop,pop rock,viral pop",4phGZZrJZRo4ElhRtViYdl,Jason Mraz,5991207,0.79,"pop, new age and standards"
+364,365,musical advocacy,spanish pop,,,,,,,,,,,,,"musical advocacy,spanish pop",6mBHjsMML6XGuqjaDH1iqW,Resistiré 2020,8105,0.51,other
+365,366,argentine hip hop,r&b argentino,trap argentino,trap latino,,,,,,,,,,,"argentine hip hop,r&b argentino,trap argentino,trap latino",2UZIAOlrnyZmyzt1nuXr9y,Nicki Nicole,1371526,0.82,"hip hop, r&b and soul"
+366,367,dance pop,edm,german dance,pop dance,pop edm,tropical house,,,,,,,,,"dance pop,edm,german dance,pop dance,pop edm,tropical house",0u6GtibW46tFX7koQ6uNJZ,Topic,137554,0.84,"dance, electro and ambient"
+367,368,dance pop,pop,post-teen pop,viral pop,,,,,,,,,,,"dance pop,pop,post-teen pop,viral pop",6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,12940653,0.83,"dance, electro and ambient"
+368,369,,,,,,,,,,,,,,,,3KltIt1n9KKw9kVkU4FQNY,bozza.J,22,0.35,"dance, electro and ambient"
+369,370,french hip hop,old school rap francais,pop urbaine,rap conscient,,,,,,,,,,,"french hip hop,old school rap francais,pop urbaine,rap conscient",58wXmynHaAWI5hwlPZP3qL,Booba,2030719,0.79,"hip hop, r&b and soul"
+370,371,italian hip hop,italian indie pop,trap italiana,,,,,,,,,,,,"italian hip hop,italian indie pop,trap italiana",4CuMwzDzEdlUJMEna38VQ0,Dark Polo Gang,1230159,0.63,"hip hop, r&b and soul"
+371,372,urbano espanol,,,,,,,,,,,,,,urbano espanol,5VyXOfvTQljStUXx1coETY,Robledo,32962,0.54,latin and reggaeton
+372,373,cantautor,indie catala,mestissatge,musica catalana,rock catala,,,,,,,,,,"cantautor,indie catala,mestissatge,musica catalana,rock catala",6XYRpcgPIK9OejoVzA7PbC,Txarango,261277,0.59,"rock, country and indie"
+373,374,dominican pop,,,,,,,,,,,,,,dominican pop,4ygcJmgRCkZ0AoKkMt1xiZ,Karetta el Gucci,19462,0.58,"pop, new age and standards"
+374,375,blues rock,classic rock,mellow gold,soft rock,sophisti-pop,,,,,,,,,,"blues rock,classic rock,mellow gold,soft rock,sophisti-pop",5KEG7G8LDYlHgFDqZyEEs2,Chris Rea,576601,0.61,"rock, country and indie"
+375,376,french hip hop,pop urbaine,rap francais,,,,,,,,,,,,"french hip hop,pop urbaine,rap francais",19u3RGWKsjmbg9eI6zAiNp,13 Organisé,96182,0.65,"hip hop, r&b and soul"
+376,377,big room,brostep,dance pop,dutch edm,edm,house,pop,pop dance,slap house,trance,tropical house,,,,"big room,brostep,dance pop,dutch edm,edm,house,pop,pop dance,slap house,trance,tropical house",2o5jDhtHVPhrJdv3cEQ99Z,Tiësto,5557036,0.87,"dance, electro and ambient"
+377,378,funk 150 bpm,funk carioca,trap funk,,,,,,,,,,,,"funk 150 bpm,funk carioca,trap funk",6qrqAYlS6lUj2BVXax7SZW,Mc Jacaré,62098,0.64,"hip hop, r&b and soul"
+378,379,spanish pop,,,,,,,,,,,,,,spanish pop,2rGri7YZ2eiCS58zgvmlQb,Sinsinati,60421,0.6,"pop, new age and standards"
+379,380,trap,,,,,,,,,,,,,,trap,7arQA31aZVS8yS6zUveWzb,CJ,146288,0.79,"hip hop, r&b and soul"
+380,381,bergamo indie,italian indie pop,italian pop,milan indie,,,,,,,,,,,"bergamo indie,italian indie pop,italian pop,milan indie",6RdcIWVKYYzNzjQRd3oyHS,Pinguini Tattici Nucleari,412883,0.72,"rock, country and indie"
+381,382,social media pop,,,,,,,,,,,,,,social media pop,6Y64EaNqpqcZYTgs4c76gF,jxdn,707446,0.75,"pop, new age and standards"
+382,383,adult standards,easy listening,lounge,,,,,,,,,,,,"adult standards,easy listening,lounge",49e4v89VmlDcFCMyDv9wQ9,Dean Martin,1083543,0.71,"pop, new age and standards"
+383,384,colombian hip hop,dominican pop,latin,latin pop,reggaeton,reggaeton colombiano,reggaeton flow,trap latino,,,,,,,"colombian hip hop,dominican pop,latin,latin pop,reggaeton,reggaeton colombiano,reggaeton flow,trap latino",1GAymyGBvB4gQy5Z5LZ1Wj,Lalo Ebratt,1215839,0.74,"hip hop, r&b and soul"
+384,385,alternative r&b,hip hop,lgbtq+ hip hop,neo soul,pop,,,,,,,,,,"alternative r&b,hip hop,lgbtq+ hip hop,neo soul,pop",2h93pZq0e7k5yf4dywlkpM,Frank Ocean,7623799,0.86,"hip hop, r&b and soul"
+385,386,banda,corrido,norteno,nuevo regional mexicano,regional mexican,sierreno,,,,,,,,,"banda,corrido,norteno,nuevo regional mexicano,regional mexican,sierreno",4J13m9IZh03PEhoxAxRhXO,Gerardo Ortiz,4808293,0.77,other
+386,387,dominican pop,latin,latin hip hop,rap dominicano,reggaeton,reggaeton flow,trap latino,,,,,,,,"dominican pop,latin,latin hip hop,rap dominicano,reggaeton,reggaeton flow,trap latino",6kq4GHwUcUojGIu0ziSNXf,Amenazzy,1345500,0.77,"pop, new age and standards"
+387,388,chicago rap,rap,,,,,,,,,,,,,"chicago rap,rap",5K4W6rqBFWDnAN6FQUkS6x,Kanye West,13784060,0.93,"hip hop, r&b and soul"
+388,389,reggaeton,reggaeton flow,trap latino,,,,,,,,,,,,"reggaeton,reggaeton flow,trap latino",11YLRSsZA3YVuQQtHXKTlz,Rafa Pabön,122566,0.76,latin and reggaeton
+389,390,dance pop,pop,post-teen pop,,,,,,,,,,,,"dance pop,pop,post-teen pop",6S2OmqARrzebs0tKUEyXyp,Demi Lovato,19651627,0.89,"dance, electro and ambient"
+390,391,latin,reggaeton,trap latino,,,,,,,,,,,,"latin,reggaeton,trap latino",2cPqdH7XMvwaBJEVjheH8g,Jay Wheeler,1189019,0.85,latin and reggaeton
+391,392,spanish pop,,,,,,,,,,,,,,spanish pop,3bvfu2KAve4lPHrhEFDZna,Lola Indigo,530578,0.7,"pop, new age and standards"
+392,393,adult standards,contemporary vocal jazz,jazz pop,lounge,neo mellow,vocal jazz,,,,,,,,,"adult standards,contemporary vocal jazz,jazz pop,lounge,neo mellow,vocal jazz",3XxxEq6BREC57nCWXbQZ7o,Jamie Cullum,437218,0.61,"pop, new age and standards"
+393,394,,,,,,,,,,,,,,,,3xGTUhpplJvAYT0w2lsOAC,Yung Sarria,1439,0.56,"dance, electro and ambient"
+394,395,frauenrap,german hip hop,kosovan pop,romanian pop,,,,,,,,,,,"frauenrap,german hip hop,kosovan pop,romanian pop",2Im8m4STDBosjfmb5hmP80,Loredana,1055622,0.68,"hip hop, r&b and soul"
+395,396,rap underground espanol,spanish hip hop,urbano espanol,,,,,,,,,,,,"rap underground espanol,spanish hip hop,urbano espanol",1QJbbsxg2wqidJj51d3otw,Natos y Waor,559236,0.74,"hip hop, r&b and soul"
+396,397,,,,,,,,,,,,,,,,5chl5XyJKjpCI14CVLzDei,NDG Creative,37,0.17,"dance, electro and ambient"
+397,398,houston rap,pop,pop rap,trap queen,,,,,,,,,,,"houston rap,pop,pop rap,trap queen",181bsRPaVXVlUKXrxwZfHK,Megan Thee Stallion,4047620,0.89,"hip hop, r&b and soul"
+398,399,slap house,,,,,,,,,,,,,,slap house,2o08sCWF5yyo2G4DCiT7T9,HVME,32566,0.81,"dance, electro and ambient"
+399,400,boy band,dance pop,electropop,pop,post-teen pop,,,,,,,,,,"boy band,dance pop,electropop,pop,post-teen pop",5Rl15oVamLq7FbSb0NNBNy,5 Seconds of Summer,7424024,0.84,"pop, new age and standards"
+400,401,latin,latin arena pop,latin pop,spanish pop,spanish pop rock,,,,,,,,,,"latin,latin arena pop,latin pop,spanish pop,spanish pop rock",5gOJTI4TusSENizxhcG7jB,David Bisbal,3166887,0.76,latin and reggaeton
+401,402,british soul,dance pop,europop,pop,post-teen pop,talent show,urban contemporary,,,,,,,,"british soul,dance pop,europop,pop,post-teen pop,talent show,urban contemporary",5lKZWd6HiSCLfnDGrq9RAm,Leona Lewis,2759597,0.72,"hip hop, r&b and soul"
+402,403,cumbia pop,,,,,,,,,,,,,,cumbia pop,48R2gYdPKtfnfKAzhSVPUx,Migrantes,78394,0.7,"pop, new age and standards"
+403,404,french hip hop,pop urbaine,rap francais,rap marseille,,,,,,,,,,,"french hip hop,pop urbaine,rap francais,rap marseille",5RaQ9nmVGoTye2SI76x3yw,Kofs,224146,0.65,"hip hop, r&b and soul"
+404,405,,,,,,,,,,,,,,,,5N3YDBGT2gUzXgLDTwPRi5,Álvaro De Luna,15407,0.66,"dance, electro and ambient"
+405,406,folk-pop,neo mellow,pop,pop rock,,,,,,,,,,,"folk-pop,neo mellow,pop,pop rock",0gadJ2b9A4SKsB1RFkBb66,Passenger,2773936,0.77,"pop, new age and standards"
+406,407,musica catalana,,,,,,,,,,,,,,musica catalana,7fUEi9sgiLw8gwQ307T6IU,Stay Homas,70293,0.61,other
+407,408,rap espanol,urbano espanol,,,,,,,,,,,,,"rap espanol,urbano espanol",5NzCASNJVvcPW4uGwMRlPl,Al Safir,20242,0.57,"hip hop, r&b and soul"
+408,409,hawaiian hip hop,pop rap,rap,,,,,,,,,,,,"hawaiian hip hop,pop rap,rap",1z7b1Pr1rSlvWRzsW3HOrS,Russ,3977397,0.82,"hip hop, r&b and soul"
+409,410,latin,latin pop,reggaeton,reggaeton flow,trap latino,,,,,,,,,,"latin,latin pop,reggaeton,reggaeton flow,trap latino",47MpMsUfWtgyIIBEFOr4FE,Lunay,4381067,0.83,latin and reggaeton
+410,411,funk 150 bpm,,,,,,,,,,,,,,funk 150 bpm,09EYYUcfEDOvj3D5f45L99,MC Ingryd,100765,0.51,"hip hop, r&b and soul"
+411,412,canadian latin,canadian pop,dance pop,pop,pop rap,,,,,,,,,,"canadian latin,canadian pop,dance pop,pop,pop rap",2jw70GZXlAI8QzWeY2bgRc,Nelly Furtado,2532355,0.79,latin and reggaeton
+412,413,puerto rican pop,trap latino,,,,,,,,,,,,,"puerto rican pop,trap latino",1mcTU81TzQhprhouKaTkpq,Rauw Alejandro,4557075,0.93,"pop, new age and standards"
+413,414,dance pop,edm,electro house,pop dance,tropical house,,,,,,,,,,"dance pop,edm,electro house,pop dance,tropical house",77AiFEVeAVj2ORpC85QVJs,Steve Aoki,3544400,0.8,"dance, electro and ambient"
+414,415,latin pop,puerto rican pop,,,,,,,,,,,,,"latin pop,puerto rican pop",7K78lVZ8XzkjfRSI7570FF,José Feliciano,227031,0.65,"pop, new age and standards"
+415,416,electropop,pop,pop rap,,,,,,,,,,,,"electropop,pop,pop rap",5CiGnKThu5ctn9pBxv7DGa,benny blanco,769582,0.82,"dance, electro and ambient"
+416,417,canadian pop,pop,post-teen pop,,,,,,,,,,,,"canadian pop,pop,post-teen pop",1uNFoZAHBGtllmzznpCI3s,Justin Bieber,45025683,1.0,"pop, new age and standards"
+417,418,colombian pop,latin,latin pop,mexican pop,rock en espanol,tropical,,,,,,,,,"colombian pop,latin,latin pop,mexican pop,rock en espanol,tropical",0UWZUmn7sybxMCqrw9tGa7,Juanes,3250699,0.78,"pop, new age and standards"
+418,419,latin talent show,latin viral pop,,,,,,,,,,,,,"latin talent show,latin viral pop",5gFFncjKaCnI9IkEs2POwj,Anaju,32214,0.45,latin and reggaeton
+419,420,,,,,,,,,,,,,,,,3xs0LEzcPXtgNfMNcHzLIP,Rockwell,17433,0.58,"dance, electro and ambient"
+420,421,,,,,,,,,,,,,,,,0ffoIkovMbaG01Y6U2jyAS,Andrew Andraos,13447,0.49,"dance, electro and ambient"
+421,422,classic schlager,german pop,partyschlager,schlager,,,,,,,,,,,"classic schlager,german pop,partyschlager,schlager",7MzHPIXAqIOCnvK0sVY72W,Helene Fischer,1157174,0.68,other
+422,423,australian rock,hard rock,rock,,,,,,,,,,,,"australian rock,hard rock,rock",711MCceyCBcFnzjGY4Q7Un,AC/DC,18833502,0.86,"rock, country and indie"
+423,424,german hip hop,,,,,,,,,,,,,,german hip hop,6h1s4i4XKIYv4ErDelLDN0,Samra,1006137,0.8,"hip hop, r&b and soul"
+424,425,latin,latin hip hop,perreo,reggaeton,reggaeton flow,trap latino,,,,,,,,,"latin,latin hip hop,perreo,reggaeton,reggaeton flow,trap latino",6ieK9Ddas29reReO60on3o,"Gotay ""El Autentiko""",399755,0.63,latin and reggaeton
+425,426,italian adult pop,italian pop,,,,,,,,,,,,,"italian adult pop,italian pop",3hN3iJMbbBmqBSAMx5veDa,Ultimo,2330214,0.71,"pop, new age and standards"
+426,427,r&b en espanol,,,,,,,,,,,,,,r&b en espanol,4EiI7Vls0NB16jLuexzCHC,Paula Cendejas,10005,0.5,"hip hop, r&b and soul"
+427,428,funk,motown,quiet storm,soul,,,,,,,,,,,"funk,motown,quiet storm,soul",1ThoqLcyIYvZn7iWbj8fsj,Bill Withers,1115593,0.77,"hip hop, r&b and soul"
+428,429,melodic rap,rap,trap,,,,,,,,,,,,"melodic rap,rap,trap",757aE44tKEUQEqRuT6GnEB,Roddy Ricch,6069412,0.88,"hip hop, r&b and soul"
+429,430,french hip hop,pop urbaine,,,,,,,,,,,,,"french hip hop,pop urbaine",6Te49r3A6f5BiIgBRxH7FH,Ninho,4394753,0.83,"hip hop, r&b and soul"
+430,431,art pop,dance pop,electropop,escape room,pop,post-teen pop,,,,,,,,,"art pop,dance pop,electropop,escape room,pop,post-teen pop",2KEqzdPS7M5YwGmiuPTdr5,Rina Sawayama,485949,0.69,"pop, new age and standards"
+431,432,indie rockism,,,,,,,,,,,,,,indie rockism,4vxaQs6vK54nK89J1VtLex,PUBLIC,157629,0.69,"rock, country and indie"
+432,433,pop rap,rap,trap,,,,,,,,,,,,"pop rap,rap,trap",6MPCFvOQv5cIGfw3jODMF0,Internet Money,290765,0.83,"pop, new age and standards"
+433,434,latin,latin hip hop,reggaeton,reggaeton flow,trap latino,,,,,,,,,,"latin,latin hip hop,reggaeton,reggaeton flow,trap latino",1TtXnWcUs0FCkaZDPGYHdf,Darell,1969083,0.84,latin and reggaeton
+434,435,dance pop,edm,pop dance,pop house,tropical house,,,,,,,,,,"dance pop,edm,pop dance,pop house,tropical house",0xRXCcSX89eobfrshSVdyu,MEDUZA,411126,0.83,"dance, electro and ambient"
+435,436,viral rap,,,,,,,,,,,,,,viral rap,7yntSJ6uojO3z6GFUVwhAW,CORPSE,1611382,0.78,"hip hop, r&b and soul"
+436,437,,,,,,,,,,,,,,,,40jZHpxIT7SOkZF9YrxGYq,Chris Viz,15498,0.5,"dance, electro and ambient"
+437,438,latin,latin arena pop,latin pop,spanish pop,,,,,,,,,,,"latin,latin arena pop,latin pop,spanish pop",2KxjMGXFgX1vt9grpbD3xI,Dvicio,821564,0.7,latin and reggaeton
+438,439,pop flamenco,rumba,spanish pop,,,,,,,,,,,,"pop flamenco,rumba,spanish pop",5ZqnEfVdEGmoPxtELhN7ai,Estopa,1256875,0.72,"pop, new age and standards"
+439,440,,,,,,,,,,,,,,,,1kwi1Q7X4jPTkHTgayxKhS,Alonestar,2435,0.57,"dance, electro and ambient"
+440,441,corrido,duranguense,regional mexican,tropical,,,,,,,,,,,"corrido,duranguense,regional mexican,tropical",2aZtzjAzD8fq3OhZ9egqda,Alacranes Musical,467481,0.63,latin and reggaeton
+441,442,latin,latin hip hop,reggaeton,trap latino,,,,,,,,,,,"latin,latin hip hop,reggaeton,trap latino",329e4yvIujISKGKz1BZZbO,Farruko,9884538,0.91,latin and reggaeton
+442,443,trap chileno,trap latino,,,,,,,,,,,,,"trap chileno,trap latino",0NnUMWDCDi1snuMja6IdxH,Harry Nach,117952,0.7,"hip hop, r&b and soul"
+443,444,europop,new romantic,new wave pop,,,,,,,,,,,,"europop,new romantic,new wave pop",5lpH0xAS4fVfLkACg9DAuM,Wham!,1547737,0.71,"pop, new age and standards"
+444,445,pop rap,rhode island rap,,,,,,,,,,,,,"pop rap,rhode island rap",0vRvGUQVUjytro0xpb26bs,Arizona Zervas,601665,0.76,"pop, new age and standards"
+445,446,adult standards,cowboy western,oklahoma country,traditional country,yodeling,,,,,,,,,,"adult standards,cowboy western,oklahoma country,traditional country,yodeling",5ixB75BQR3ADoWQkcHQJTs,Gene Autry,40322,0.44,"pop, new age and standards"
+446,447,dance pop,hip pop,pop,pop rap,post-teen pop,queens hip hop,,,,,,,,,"dance pop,hip pop,pop,pop rap,post-teen pop,queens hip hop",0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,21095546,0.91,"dance, electro and ambient"
+447,448,dance pop,escape room,minnesota hip hop,pop,pop rap,post-teen pop,trap queen,,,,,,,,"dance pop,escape room,minnesota hip hop,pop,pop rap,post-teen pop,trap queen",56oDRnqbIiwx4mymNEv7dS,Lizzo,3794749,0.79,"dance, electro and ambient"
+448,449,rap,slap house,,,,,,,,,,,,,"rap,slap house",0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,16289817,0.94,"hip hop, r&b and soul"
+449,450,reggaeton,reggaeton flow,trap latino,,,,,,,,,,,,"reggaeton,reggaeton flow,trap latino",3HH6yOn1yJNZo3RY5zEfy5,Javiielo,126146,0.61,latin and reggaeton
+450,451,latin,latin hip hop,reggaeton,reggaeton flow,trap latino,,,,,,,,,,"latin,latin hip hop,reggaeton,reggaeton flow,trap latino",64aJYyrXljOodnUG6jvhRD,DJ Luian,979064,0.8,latin and reggaeton
+451,452,edm,pop,pop dance,tropical house,,,,,,,,,,,"edm,pop,pop dance,tropical house",23fqKkggKUBHNkbKtXEls4,Kygo,7395994,0.87,"dance, electro and ambient"
+452,453,latin,trap latino,trap venezolano,venezuelan hip hop,,,,,,,,,,,"latin,trap latino,trap venezolano,venezuelan hip hop",1aWJsBQa67l72j1VT3D6Ow,Micro TDH,787352,0.74,latin and reggaeton
+453,454,italian adult pop,italian pop,italian reggae,,,,,,,,,,,,"italian adult pop,italian pop,italian reggae",4mAsWDGLUIEdo6imU77WG6,Boomdabash,504669,0.65,"pop, new age and standards"
+454,455,latin,latin hip hop,reggaeton,reggaeton flow,trap latino,,,,,,,,,,"latin,latin hip hop,reggaeton,reggaeton flow,trap latino",1fux65HMCBvfJHqlBc4Nno,Casper Magico,1261910,0.8,latin and reggaeton
+455,456,funk carioca,funk pop,pagode baiano,pop nacional,,,,,,,,,,,"funk carioca,funk pop,pagode baiano,pop nacional",7FNnA9vBm6EKceENgCGRMb,Anitta,10501648,0.82,"hip hop, r&b and soul"
+456,457,alt z,dance pop,electropop,indie cafe pop,indie poptimism,modern rock,pop,pop rap,post-teen pop,talent show,,,,,"alt z,dance pop,electropop,indie cafe pop,indie poptimism,modern rock,pop,pop rap,post-teen pop,talent show",1o2NpYGqHiCq7FoiYdyd1x,Bea Miller,2286899,0.77,"dance, electro and ambient"
+457,458,basshall,dutch rap pop,ritmo kombina,,,,,,,,,,,,"basshall,dutch rap pop,ritmo kombina",4NEThNYJ3WyNcJWcmpjq88,Ir Sais,63047,0.68,other
+458,459,album rock,art rock,classic rock,folk,folk rock,lilith,mellow gold,new romantic,new wave,new wave pop,permanent wave,pop rock,rock,soft rock,"album rock,art rock,classic rock,folk,folk rock,lilith,mellow gold,new romantic,new wave,new wave pop,permanent wave,pop rock,rock,soft rock",0GByy3DcfbQwDvXGCWmzv9,Pretenders,982871,0.68,"rock, country and indie"
+459,460,dance pop,pop,,,,,,,,,,,,,"dance pop,pop",0du5cEVh5yTK9QJze8zA0C,Bruno Mars,30190684,0.94,"dance, electro and ambient"
+460,461,gauze pop,indietronica,shiver pop,,,,,,,,,,,,"gauze pop,indietronica,shiver pop",4yvcSjfu4PC0CYQyLy4wSq,Glass Animals,1680061,0.84,"pop, new age and standards"
+461,462,k-pop,k-pop boy group,,,,,,,,,,,,,"k-pop,k-pop boy group",2dIgFjalVxs4ThymZ67YCE,Stray Kids,4437536,0.81,"pop, new age and standards"
+462,463,edm,pop dance,tropical house,,,,,,,,,,,,"edm,pop dance,tropical house",4AKwRarlmsUlLjIwt38NLw,Ofenbach,408190,0.8,"dance, electro and ambient"
+463,464,afro dancehall,afropop,ghanaian hip hop,nigerian pop,swedish dancehall,,,,,,,,,,"afro dancehall,afropop,ghanaian hip hop,nigerian pop,swedish dancehall",4TAoP0f9OuWZUesao43xUW,Mr Eazi,374871,0.72,"dance, electro and ambient"
+464,465,hip hop,pop rap,portland hip hop,rap,underground hip hop,,,,,,,,,,"hip hop,pop rap,portland hip hop,rap,underground hip hop",3Gm5F95VdRxW3mqCn8RPBJ,Aminé,1574350,0.77,"hip hop, r&b and soul"
+465,466,pop argentino,trap latino,,,,,,,,,,,,,"pop argentino,trap latino",1DxLCyH42yaHKGK3cl5bvG,Maria Becerra,749811,0.8,"pop, new age and standards"
+466,467,cali rap,hip hop,pop rap,rap,southern hip hop,trap,,,,,,,,,"cali rap,hip hop,pop rap,rap,southern hip hop,trap",0YinUQ50QDB7ZxSCLyQ40k,Mustard,851372,0.8,"hip hop, r&b and soul"
+467,468,dominican pop,urbano espanol,,,,,,,,,,,,,"dominican pop,urbano espanol",4Rzu63KnqMsThOdfkrJk1Z,Lennis Rodriguez,43530,0.53,"pop, new age and standards"
+468,469,beatlesque,britpop,madchester,permanent wave,rock,,,,,,,,,,"beatlesque,britpop,madchester,permanent wave,rock",2DaxqgrOhkeH0fpeiQq2f4,Oasis,6180607,0.81,other
+469,470,latin,r&b en espanol,reggaeton,trap latino,,,,,,,,,,,"latin,r&b en espanol,reggaeton,trap latino",0KPX4Ucy9dk82uj4GpKesn,Dalex,3370376,0.84,latin and reggaeton
+470,471,dance pop,electropop,etherpop,indie poptimism,pop,post-teen pop,,,,,,,,,"dance pop,electropop,etherpop,indie poptimism,pop,post-teen pop",26VFTg2z8YR0cCuwLzESi2,Halsey,14758062,0.89,"dance, electro and ambient"
+471,472,dance pop,dancehall,pop,pop rap,,,,,,,,,,,"dance pop,dancehall,pop,pop rap",3Isy6kedDrgPYoTS1dazA9,Sean Paul,3429402,0.84,"dance, electro and ambient"
+472,473,flamenco urbano,pop flamenco,,,,,,,,,,,,,"flamenco urbano,pop flamenco",2iA56rE7fZUnD4GdsSUj3G,Galvan Real,88967,0.68,latin and reggaeton
+473,474,dance pop,edm,electropop,pop,pop dance,tropical house,,,,,,,,,"dance pop,edm,electropop,pop,pop dance,tropical house",69GGBxA162lTqCwzJG5jLp,The Chainsmokers,17791446,0.85,"dance, electro and ambient"
+474,475,adult standards,contemporary vocal jazz,jazz pop,neo mellow,vocal jazz,,,,,,,,,,"adult standards,contemporary vocal jazz,jazz pop,neo mellow,vocal jazz",2Kx7MNY7cI1ENniW7vT30N,Norah Jones,2518962,0.76,"pop, new age and standards"
+475,476,latin,latin hip hop,latin pop,reggaeton,reggaeton flow,trap latino,,,,,,,,,"latin,latin hip hop,latin pop,reggaeton,reggaeton flow,trap latino",3EiLUeyEcA6fbRPSHkG5kb,De La Ghetto,4770177,0.8,latin and reggaeton
+476,477,electro bailando,flamenco urbano,,,,,,,,,,,,,"electro bailando,flamenco urbano",0YX8LuMQAh6ousnyhwXbkz,El Jhota,13369,0.55,"dance, electro and ambient"
+477,478,italian hip hop,,,,,,,,,,,,,,italian hip hop,6hkKbkZGvAXuvle2FhCnxy,Shablo,37484,0.63,"hip hop, r&b and soul"
+478,479,latin viral pop,,,,,,,,,,,,,,latin viral pop,5ZQervTJXJJ69aosfpzpk3,Naim Darrechi,315762,0.52,"pop, new age and standards"
+479,480,belgian dance,belgian edm,big room,edm,electro house,pop dance,progressive electro house,tropical house,,,,,,,"belgian dance,belgian edm,big room,edm,electro house,pop dance,progressive electro house,tropical house",73jBynjsVtofjRpdpRAJGk,Dimitri Vegas & Like Mike,3011391,0.78,"dance, electro and ambient"
+480,481,australian psych,neo-psychedelic,,,,,,,,,,,,,"australian psych,neo-psychedelic",5INjqkS1o8h1imAzPqGZBb,Tame Impala,4869728,0.83,other
+481,482,german hip hop,,,,,,,,,,,,,,german hip hop,07SFzTMeYf5P8Rd32a9Zzw,AK AUSSERKONTROLLE,679640,0.7,"hip hop, r&b and soul"
+482,483,detroit hip hop,hip hop,rap,,,,,,,,,,,,"detroit hip hop,hip hop,rap",7dGJo4pcD2V6oG8kP0tJRR,Eminem,43760722,0.94,"hip hop, r&b and soul"
+483,484,german hip hop,hamburg hip hop,,,,,,,,,,,,,"german hip hop,hamburg hip hop",5tHiL8SKSaZGMBUPIiSmX4,KitschKrieg,158342,0.69,"hip hop, r&b and soul"
+484,485,colombian pop,latin pop,pop reggaeton,reggaeton colombiano,,,,,,,,,,,"colombian pop,latin pop,pop reggaeton,reggaeton colombiano",1vrahybrKylgwkjhbmOz94,Yera,41074,0.66,"pop, new age and standards"
+485,486,conscious hip hop,hip hop,rap,west coast rap,,,,,,,,,,,"conscious hip hop,hip hop,rap,west coast rap",2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,17174444,0.89,"hip hop, r&b and soul"
+486,487,pop,pop rap,post-teen pop,rap,,,,,,,,,,,"pop,pop rap,post-teen pop,rap",4kYSro6naA4h99UJvo89HB,Cardi B,15986696,0.9,"pop, new age and standards"
+487,488,brostep,edm,pop,pop dance,progressive electro house,,,,,,,,,,"brostep,edm,pop,pop dance,progressive electro house",64KEffDW9EtZ1y2vBYgq8T,Marshmello,30413559,0.89,"dance, electro and ambient"
+488,489,emo rap,miami hip hop,rap,trap,,,,,,,,,,,"emo rap,miami hip hop,rap,trap",3wyVrVrFCkukjdVIdirGVY,Lil Pump,7653791,0.74,"hip hop, r&b and soul"
+489,490,adult standards,funk,motown,quiet storm,soul,,,,,,,,,,"adult standards,funk,motown,quiet storm,soul",7guDJrEfX3qb6FEbdPA5qi,Stevie Wonder,4943862,0.8,"pop, new age and standards"
+490,491,latin arena pop,pop flamenco,spanish pop,,,,,,,,,,,,"latin arena pop,pop flamenco,spanish pop",6FOpWOxsjQxKEbLiJpU1xV,India Martinez,674405,0.68,"pop, new age and standards"
+491,492,rap espanol,urbano espanol,,,,,,,,,,,,,"rap espanol,urbano espanol",5o7fmoqHl79fzoCzeApdxm,Sticky M.A.,64392,0.56,"hip hop, r&b and soul"
+492,493,latin pop,latin talent show,latin viral pop,spanish pop,,,,,,,,,,,"latin pop,latin talent show,latin viral pop,spanish pop",3MRynBsyLGzv3IQ9Fip6hO,Ana Guerra,405915,0.56,"pop, new age and standards"
+493,494,cali rap,,,,,,,,,,,,,,cali rap,16Nc36xAtNyQ7BMBcDsaLv,Likybo,37692,0.53,"hip hop, r&b and soul"
+494,495,melodic rap,rap,slap house,,,,,,,,,,,,"melodic rap,rap,slap house",0H39MdGGX6dbnnQPt6NQkZ,SAINt JHN,700338,0.8,"hip hop, r&b and soul"
+495,496,colombian pop,latin,latin pop,,,,,,,,,,,,"colombian pop,latin,latin pop",5C4PDR4LnhZTbVnKWXuDKD,Morat,4200247,0.82,"pop, new age and standards"
+496,497,dance pop,pop,post-teen pop,,,,,,,,,,,,"dance pop,pop,post-teen pop",26dSoYclwsYLMAKD3tpOr4,Britney Spears,8953731,0.85,"dance, electro and ambient"
+497,498,urbano espanol,,,,,,,,,,,,,,urbano espanol,5Ypafuz95Xk09YDf4tgAvU,Ayax y Prok,446373,0.66,latin and reggaeton
+498,499,dance pop,german dance,pop dance,slap house,tropical house,,,,,,,,,,"dance pop,german dance,pop dance,slap house,tropical house",09agIJMxCD2k87ys9Al0f0,VIZE,119088,0.82,"dance, electro and ambient"
+499,500,gruperas inmortales,nu-cumbia,regional mexican,tropical,,,,,,,,,,,"gruperas inmortales,nu-cumbia,regional mexican,tropical",0ZCO8oVkMj897cKgFH7fRW,Los Ángeles Azules,4406359,0.79,other
+500,501,latin,latin hip hop,reggaeton,trap latino,,,,,,,,,,,"latin,latin hip hop,reggaeton,trap latino",3E6xrwgnVfYCrCs0ePERDz,Wisin,6638354,0.88,latin and reggaeton
+501,502,indie cafe pop,neo mellow,pop,pop rock,post-teen pop,uk pop,viral pop,,,,,,,,"indie cafe pop,neo mellow,pop,pop rock,post-teen pop,uk pop,viral pop",0B3N0ZINFWvizfa8bKiz4v,James TW,859606,0.74,"pop, new age and standards"
+502,503,,,,,,,,,,,,,,,,4ohRzp7ZzPQi3PzCiBrDAm,Porky Slim,6208,0.45,"dance, electro and ambient"
+503,504,latin,latin pop,pop,,,,,,,,,,,,"latin,latin pop,pop",7cjh6y0V9SsyCrWSXTzwOs,RBD,1115042,0.73,latin and reggaeton
+504,505,latin,reggaeton,reggaeton flow,trap argentino,trap latino,,,,,,,,,,"latin,reggaeton,reggaeton flow,trap argentino,trap latino",1pQWsZQehhS4wavwh7Fnxd,Lenny Tavárez,1219112,0.87,latin and reggaeton
+505,506,gangster rap,hip hop,pop rap,rap,southern hip hop,trap,,,,,,,,,"gangster rap,hip hop,pop rap,rap,southern hip hop,trap",0NbfKEOTQCcwd6o7wSDOHI,The Game,3316468,0.76,"hip hop, r&b and soul"
+506,507,latin,reggaeton,reggaeton flow,trap boricua,trap latino,,,,,,,,,,"latin,reggaeton,reggaeton flow,trap boricua,trap latino",1Ts9of7VPZElwPQnqnDSfW,Lyanno,341464,0.82,latin and reggaeton
+507,508,latin viral pop,spanish pop,,,,,,,,,,,,,"latin viral pop,spanish pop",5fmYDIdgEkSgLdL6esxgfp,Belén Aguilera,45483,0.58,"pop, new age and standards"
+508,509,adult standards,brill building pop,easy listening,lounge,,,,,,,,,,,"adult standards,brill building pop,easy listening,lounge",4sj6D0zlMOl25nprDJBiU9,Andy Williams,352091,0.63,"pop, new age and standards"
+509,510,albanian hip hop,german hip hop,,,,,,,,,,,,,"albanian hip hop,german hip hop",39KEQQAG9JhIt71g9NEVhh,Azet,1122581,0.71,"hip hop, r&b and soul"
+510,511,complextro,dance pop,edm,electro house,electropop,german techno,pop,pop dance,post-teen pop,tropical house,,,,,"complextro,dance pop,edm,electro house,electropop,german techno,pop,pop dance,post-teen pop,tropical house",2qxJFvFYMEDqd7ui6kSAcq,Zedd,5439450,0.81,other
+511,512,irish rock,pop rock,,,,,,,,,,,,,"irish rock,pop rock",7t0rwkOPGlDPEhaOcVtOt9,The Cranberries,2429922,0.76,"rock, country and indie"
+512,513,cali rap,melodic rap,pop rap,rap,trap,,,,,,,,,,"cali rap,melodic rap,pop rap,rap,trap",1MXZ0hsGic96dWRDKwAwdr,Tyla Yaweh,325067,0.73,"hip hop, r&b and soul"
+513,514,spanish pop,,,,,,,,,,,,,,spanish pop,1vBn5Puz4mdZopZEHq1QDq,La Maravillosa Orquesta del Alcohol,159781,0.6,"pop, new age and standards"
+514,515,chill r&b,pop,,,,,,,,,,,,,"chill r&b,pop",4jpsw9CQS439N0B7SecMgf,Ant Saunders,82074,0.62,"hip hop, r&b and soul"
+515,516,adult standards,big band,deep adult standards,easy listening,lounge,swing,torch song,vocal jazz,,,,,,,"adult standards,big band,deep adult standards,easy listening,lounge,swing,torch song,vocal jazz",7rpf45DdbpweG51Acze45i,Kay Starr,33084,0.43,"pop, new age and standards"
+516,517,disco,funk,post-disco,quiet storm,,,,,,,,,,,"disco,funk,post-disco,quiet storm",0NyzfcGDZZ6GM25EBG9BYK,Ray Parker Jr.,48333,0.57,"dance, electro and ambient"
+517,518,trap chileno,trap latino,,,,,,,,,,,,,"trap chileno,trap latino",2zfwez4uxbP8NcFy3kaNLF,Kiddtetoon,52577,0.66,"hip hop, r&b and soul"
+518,519,chicano rap,pop rap,,,,,,,,,,,,,"chicano rap,pop rap",7MP4jhYmFEgb0AtiOkw55s,Play-N-Skillz,18915,0.65,"hip hop, r&b and soul"
+519,520,dance pop,pop,post-teen pop,,,,,,,,,,,,"dance pop,pop,post-teen pop",5p7f24Rk5HkUZsaS3BLG5F,Hailee Steinfeld,6719705,0.78,"dance, electro and ambient"
+520,521,pop,,,,,,,,,,,,,,pop,2txHhyCwHjUEpJjWrEyqyX,Tom Odell,1740938,0.77,"pop, new age and standards"
+521,522,hip hop,pittsburgh rap,pop rap,rap,southern hip hop,trap,,,,,,,,,"hip hop,pittsburgh rap,pop rap,rap,southern hip hop,trap",137W8MRPWKqSmrBGDBFSop,Wiz Khalifa,9933083,0.88,"hip hop, r&b and soul"
+522,523,,,,,,,,,,,,,,,,7FwQ4GIIxJqMCHK6H6Hj9I,Boshi,102,0.38,"dance, electro and ambient"
+523,524,adult standards,easy listening,lounge,vocal jazz,,,,,,,,,,,"adult standards,easy listening,lounge,vocal jazz",2lolQgalUvZDfp5vvVtTYV,Tony Bennett,630344,0.66,"pop, new age and standards"
+524,525,canzone napoletana,classical tenor,italian tenor,opera,operatic pop,,,,,,,,,,"canzone napoletana,classical tenor,italian tenor,opera,operatic pop",0Y8KmFkKOgJybpVobn1onU,Luciano Pavarotti,620246,0.67,other
+525,526,argentine hip hop,trap argentino,trap latino,trap triste,,,,,,,,,,,"argentine hip hop,trap argentino,trap latino,trap triste",4m6ubhNsdwF4psNf3R8kwR,KHEA,2897131,0.83,"hip hop, r&b and soul"
+526,527,cantautor,latin arena pop,latin pop,spanish pop,spanish pop rock,spanish rock,,,,,,,,,"cantautor,latin arena pop,latin pop,spanish pop,spanish pop rock,spanish rock",3heR1it0slFXjaa7E62zpw,Maldita Nerea,545267,0.61,"rock, country and indie"
+527,528,drill espanol,urbano espanol,,,,,,,,,,,,,"drill espanol,urbano espanol",4az97MtWmBQ5Db3GfDh9j9,Morad,446548,0.73,other
+528,529,dance pop,girl group,hip pop,pop,r&b,urban contemporary,,,,,,,,,"dance pop,girl group,hip pop,pop,r&b,urban contemporary",1Y8cdNmUJH7yBTd9yOvr5i,Destiny's Child,4793217,0.76,"dance, electro and ambient"
+529,530,cantautor,latin arena pop,spanish pop,,,,,,,,,,,,"cantautor,latin arena pop,spanish pop",4cA5JN7tiNZ8afYeuSQj5h,David Otero,133234,0.62,"rock, country and indie"
+530,531,reggaeton,trap latino,,,,,,,,,,,,,"reggaeton,trap latino",2oT7xd9iTO2ejLsNGIMa5f,Flow La Movie,4397,0.8,latin and reggaeton
+531,532,german pop,,,,,,,,,,,,,,german pop,03d2mJXSMtuPI0nIvLnhoS,Zoe Wees,133439,0.76,"pop, new age and standards"
+532,533,funk carioca,funk pop,,,,,,,,,,,,,"funk carioca,funk pop",76Xa625geVw0Q7BdyxNjA2,Mc Zaac,1533471,0.69,"hip hop, r&b and soul"
+533,534,flamenco urbano,,,,,,,,,,,,,,flamenco urbano,3Nbij6lwrwz0XB7HubxdN2,Los del Control,2176,0.54,latin and reggaeton
+534,535,australian hip hop,,,,,,,,,,,,,,australian hip hop,2tIP7SsRs7vjIcLrU85W8J,The Kid LAROI,1698791,0.9,"hip hop, r&b and soul"
+535,536,argentine hip hop,,,,,,,,,,,,,,argentine hip hop,3wsYquQ9CiMlYG54BUR2ff,ZARAMAY,112426,0.65,"hip hop, r&b and soul"
+536,537,latin,latin hip hop,reggaeton,reggaeton flow,trap latino,,,,,,,,,,"latin,latin hip hop,reggaeton,reggaeton flow,trap latino",1fctva4kpRbg2k3v7kwRuS,Rvssian,1298911,0.72,latin and reggaeton
+537,538,dance pop,edm,electro house,pop,pop dance,pop edm,tropical house,,,,,,,,"dance pop,edm,electro house,pop,pop dance,pop edm,tropical house",20gsENnposVs2I4rQ5kvrf,Sam Feldt,619300,0.8,"dance, electro and ambient"
+538,539,dance pop,hip hop,miami hip hop,pop,pop rap,rap,southern hip hop,trap,,,,,,,"dance pop,hip hop,miami hip hop,pop,pop rap,rap,southern hip hop,trap",0QHgL1lAIqAw0HtD7YldmP,DJ Khaled,5987098,0.82,"dance, electro and ambient"
+539,540,italian adult pop,italian pop,,,,,,,,,,,,,"italian adult pop,italian pop",5iot8OPcosJN9nCl7I5SdK,Irama,1481934,0.7,"pop, new age and standards"
+540,541,contemporary country,country,pop,,,,,,,,,,,,"contemporary country,country,pop",7z5WFjZAIYejWy0NI5lv4T,Dan + Shay,2206260,0.8,"rock, country and indie"
+541,542,spanish pop,,,,,,,,,,,,,,spanish pop,5soMpG6E6oApEiCZgrWeVz,Rozalén,547191,0.69,"pop, new age and standards"
+542,543,a cappella,,,,,,,,,,,,,,a cappella,26AHtbjWKiwYzsoGoUZq53,Pentatonix,3016847,0.72,other
+543,544,bolero,latin,latin pop,,,,,,,,,,,,"bolero,latin,latin pop",2nszmSgqreHSdJA3zWPyrW,Luis Miguel,6851383,0.87,latin and reggaeton
+544,545,latin talent show,latin viral pop,,,,,,,,,,,,,"latin talent show,latin viral pop",7bvrxy6IPDgRjUveRwzolV,Hugo Cobo,41353,0.46,latin and reggaeton
+545,546,dance rock,modern rock,permanent wave,rock,,,,,,,,,,,"dance rock,modern rock,permanent wave,rock",0C0XlULifJtAgn6ZNCW2eu,The Killers,5964538,0.81,"dance, electro and ambient"
+546,547,adult standards,dixieland,harlem renaissance,jazz trumpet,new orleans jazz,soul,swing,vocal jazz,,,,,,,"adult standards,dixieland,harlem renaissance,jazz trumpet,new orleans jazz,soul,swing,vocal jazz",19eLuQmk9aCobbVDHc6eek,Louis Armstrong,2265463,0.74,"pop, new age and standards"
+547,548,edm,electro house,pop dance,pop edm,progressive electro house,tropical house,,,,,,,,,"edm,electro house,pop dance,pop edm,progressive electro house,tropical house",0daugAjUgbJSqdlyYNwIbT,Vicetone,367947,0.72,"dance, electro and ambient"
+548,549,flamenco urbano,trap latino,urbano espanol,,,,,,,,,,,,"flamenco urbano,trap latino,urbano espanol",3lY9Fxceu60W1rbon7PkuF,Omar Montes,285296,0.72,latin and reggaeton
+549,550,australian dance,australian pop,pop,,,,,,,,,,,,"australian dance,australian pop,pop",5WUlDfRSoLAfcVSX1WnrxN,Sia,19498727,0.9,"dance, electro and ambient"
+550,551,cubaton,latin,latin hip hop,latin pop,,,,,,,,,,,"cubaton,latin,latin hip hop,latin pop",2cy1zPcrFcXAJTP0APWewL,Gente De Zona,1348436,0.75,latin and reggaeton
+551,552,dance pop,hip pop,pop,post-teen pop,,,,,,,,,,,"dance pop,hip pop,pop,post-teen pop",6JL8zeS1NmiOftqZTRgdTz,Meghan Trainor,10341644,0.8,"dance, electro and ambient"
+552,553,canadian hip hop,melodic rap,pop rap,rap,toronto rap,trap,,,,,,,,,"canadian hip hop,melodic rap,pop rap,rap,toronto rap,trap",7rkW85dBwwrJtlHRDkJDAC,NAV,2473877,0.84,"hip hop, r&b and soul"
+553,554,k-pop,,,,,,,,,,,,,,k-pop,6bwp9ObI8FWvMPCIWVBmhl,Red Velvet - IRENE & SEULGI,292179,0.62,"pop, new age and standards"
+554,555,k-pop,korean mask singer,,,,,,,,,,,,,"k-pop,korean mask singer",7bmYpVgQub656uNTu6qGNQ,Hwa Sa,1622202,0.68,"pop, new age and standards"
+555,556,sad rap,,,,,,,,,,,,,,sad rap,0bBz5bRBkExaej2HxtVfCw,347aidan,186447,0.73,"hip hop, r&b and soul"
+556,557,flamenco urbano,pop flamenco,rumba,spanish hip hop,spanish pop,,,,,,,,,,"flamenco urbano,pop flamenco,rumba,spanish hip hop,spanish pop",2dkbKcHXhN7ooFBdqAV76G,Nyno Vargas,194429,0.62,latin and reggaeton
+557,558,latin viral pop,spanish pop,,,,,,,,,,,,,"latin viral pop,spanish pop",0CVOcYvRcSvOXyuR4YGKaC,Dani Fernández,81522,0.61,"pop, new age and standards"
+558,559,r&b en espanol,,,,,,,,,,,,,,r&b en espanol,7ltDVBr6mKbRvohxheJ9h1,ROSALÍA,4684639,0.85,"hip hop, r&b and soul"
+559,560,pop,pop rap,r&b,,,,,,,,,,,,"pop,pop rap,r&b",7tYKF4w9nC0nq9CsPZTHyP,SZA,5176401,0.9,"pop, new age and standards"
+560,561,reggaeton colombiano,,,,,,,,,,,,,,reggaeton colombiano,7a0XAaPaK2aDSqa8p3QnC7,Beéle,224819,0.77,latin and reggaeton
+561,562,halloween,,,,,,,,,,,,,,halloween,164hs3x1Tsp3FgJWNHee1r,The Citizens of Halloween,9671,0.46,other
+562,563,rap espanol,urbano espanol,,,,,,,,,,,,,"rap espanol,urbano espanol",4bWHA8fMNjzfGPQqnh5D6y,Recycled J,142631,0.71,"hip hop, r&b and soul"
+563,564,dance pop,pop,post-teen pop,uk pop,,,,,,,,,,,"dance pop,pop,post-teen pop,uk pop",5ZsFI1h6hIdQRw2ti0hz81,ZAYN,15548174,0.84,"dance, electro and ambient"
+564,565,cali rap,,,,,,,,,,,,,,cali rap,6fWVd57NKTalqvmjRd2t8Z,24kGoldn,1015718,0.87,"hip hop, r&b and soul"
+565,566,rap espanol,spanish hip hop,,,,,,,,,,,,,"rap espanol,spanish hip hop",5dC7EcwWdf9Qj4VvJab4rZ,FERNANDOCOSTA,208689,0.62,"hip hop, r&b and soul"
+566,567,alt z,nz pop,pop,,,,,,,,,,,,"alt z,nz pop,pop",0Cp8WN4V8Tu4QJQwCN5Md4,BENEE,613622,0.75,"dance, electro and ambient"
+567,568,new wave pop,,,,,,,,,,,,,,new wave pop,3nohf4qILMr5aUSOsolwxB,Jona Lewie,6835,0.4,"pop, new age and standards"
+568,569,country rap,lgbtq+ hip hop,pop rap,queer country,,,,,,,,,,,"country rap,lgbtq+ hip hop,pop rap,queer country",7jVv8c5Fj3E9VhNjxT4snq,Lil Nas X,4668056,0.91,"rock, country and indie"
+569,570,boy band,hip hop,rap,,,,,,,,,,,,"boy band,hip hop,rap",1Bl6wpkWCQ4KVgnASpvzzA,BROCKHAMPTON,1778245,0.81,"pop, new age and standards"
+570,571,boy band,dance pop,pop,post-teen pop,,,,,,,,,,,"boy band,dance pop,pop,post-teen pop",6Ff53KvcvAj5U7Z1vojB5o,*NSYNC,1491332,0.72,"pop, new age and standards"
+571,572,,,,,,,,,,,,,,,,2NfSBtmWe7oPw1EmetJVso,Boza,230861,0.79,"dance, electro and ambient"
+572,573,spanish pop,,,,,,,,,,,,,,spanish pop,0oBiYchunKTMDesVICwrvL,Guitarricadelafuente,149928,0.62,"pop, new age and standards"
+573,574,cantautor,latin rock,spanish indie pop,spanish pop,spanish rock,,,,,,,,,,"cantautor,latin rock,spanish indie pop,spanish pop,spanish rock",2hazSY4Ef3aB9ATXW7F5w3,IZAL,443865,0.65,"rock, country and indie"
+574,575,latin,latin arena pop,latin pop,mexican pop,spanish pop,spanish pop rock,,,,,,,,,"latin,latin arena pop,latin pop,mexican pop,spanish pop,spanish pop rock",4U7lXyKdSf1JbM1aXvsodC,La Oreja de Van Gogh,2261152,0.74,latin and reggaeton
+575,576,adult standards,mellow gold,soft rock,,,,,,,,,,,,"adult standards,mellow gold,soft rock",1eEfMU2AhEo7XnKgL7c304,Carpenters,1806209,0.71,"pop, new age and standards"
+576,577,rap espanol,urbano espanol,,,,,,,,,,,,,"rap espanol,urbano espanol",5lWasZeo8uWQk6GD8czJLq,Sen Senra,65239,0.62,"hip hop, r&b and soul"
+577,578,spanish indie pop,,,,,,,,,,,,,,spanish indie pop,2LCcy9CZWwZ7Vvykt8IVVq,Carlos Sadness,285412,0.67,"pop, new age and standards"
+578,579,pop,pop rock,,,,,,,,,,,,,"pop,pop rock",04gDigrS5kc9YWfZHwBETP,Maroon 5,30493169,0.91,"pop, new age and standards"
+579,580,adult standards,american folk revival,lounge,,,,,,,,,,,,"adult standards,american folk revival,lounge",0MHgLfmQdutffmvWe5XBTN,Burl Ives,56266,0.47,"pop, new age and standards"
+580,581,dance pop,girl group,pop,post-teen pop,talent show,uk pop,,,,,,,,,"dance pop,girl group,pop,post-teen pop,talent show,uk pop",3e7awlrlDSwF3iM0WBjGMp,Little Mix,9007427,0.84,"dance, electro and ambient"
+581,582,rap espanol,urbano espanol,,,,,,,,,,,,,"rap espanol,urbano espanol",2w1wJcGdJQ4Lw08oKBnDsw,El Jincho,147120,0.62,"hip hop, r&b and soul"
+582,583,,,,,,,,,,,,,,,,0yfhOzsYbBALSbWK4DjpCh,Pedro Calderon,8413,0.48,"dance, electro and ambient"
+583,584,brega funk,funk carioca,,,,,,,,,,,,,"brega funk,funk carioca",36SRwzRkX5zW3ABjJrevqX,Dadá Boladão,201170,0.56,"hip hop, r&b and soul"
+584,585,album rock,art rock,classic rock,mellow gold,new wave,permanent wave,rock,soft rock,,,,,,,"album rock,art rock,classic rock,mellow gold,new wave,permanent wave,rock,soft rock",5NGO30tJxFlKixkPSgXcFE,The Police,4152581,0.79,"rock, country and indie"
+585,586,bachata,latin,latin hip hop,latin pop,trap latino,,,,,,,,,,"bachata,latin,latin hip hop,latin pop,trap latino",3MHaV05u0io8fQbZ2XPtlC,Prince Royce,6197977,0.81,latin and reggaeton
+586,587,reggaeton,reggaeton flow,trap latino,,,,,,,,,,,,"reggaeton,reggaeton flow,trap latino",7kXCcNRLEnblbTAppPraBp,Milly,14741,0.75,latin and reggaeton
+587,588,modern alternative rock,modern rock,nu gaze,pop,post-teen pop,rock,,,,,,,,,"modern alternative rock,modern rock,nu gaze,pop,post-teen pop,rock",3mIj9lX2MWuHmhNCA7LSCW,The 1975,4884117,0.8,"rock, country and indie"
+588,589,melodic rap,rap,rap conscient,trap,vapor trap,,,,,,,,,,"melodic rap,rap,rap conscient,trap,vapor trap",5zctI4wO9XSKS8XwcnqEHk,Lil Mosey,3579111,0.83,"hip hop, r&b and soul"
+589,590,melodic metalcore,metalcore,rock,uk metalcore,,,,,,,,,,,"melodic metalcore,metalcore,rock,uk metalcore",1Ffb6ejR6Fe5IamqA5oRUF,Bring Me The Horizon,3727070,0.82,"rock, country and indie"
+590,591,mariachi,nuevo regional mexicano,ranchera,regional mexican,,,,,,,,,,,"mariachi,nuevo regional mexicano,ranchera,regional mexican",0XwVARXT135rw8lyw1EeWP,Christian Nodal,6888240,0.88,other
+591,592,edm,pop dance,tropical house,,,,,,,,,,,,"edm,pop dance,tropical house",3v6Ji4uoWtKRkhuDUaxi9n,Dynoro,222547,0.74,"dance, electro and ambient"
+592,593,cantautor,latin rock,rock en espanol,spanish pop,,,,,,,,,,,"cantautor,latin rock,rock en espanol,spanish pop",1tZ99AnqyjgrmPwLfGU5eo,Fito y Fitipaldis,1228836,0.68,"rock, country and indie"
+593,594,australian pop,pop,,,,,,,,,,,,,"australian pop,pop",2NjfBq1NflQcKSeiDooVjY,Tones And I,2726709,0.81,"pop, new age and standards"
+594,595,classic country pop,country,country dawn,,,,,,,,,,,,"classic country pop,country,country dawn",32vWCbZh0xZ4o9gkz4PsEU,Dolly Parton,1430203,0.76,"pop, new age and standards"
+595,596,adult standards,contemporary country,country,country road,modern country rock,,,,,,,,,,"adult standards,contemporary country,country,country road,modern country rock",0qSX3s5pJnAlSsgsCne8Cz,Brett Eldredge,1269418,0.67,"pop, new age and standards"
+596,597,indie pop,modern rock,pop,rock,,,,,,,,,,,"indie pop,modern rock,pop,rock",0NIPkIjTV8mB795yEIiPYL,Wallows,1837397,0.78,"pop, new age and standards"
+597,598,melodic rap,,,,,,,,,,,,,,melodic rap,1XLWox9w1Yvbodui0SRhUQ,StaySolidRocky,146041,0.71,"hip hop, r&b and soul"
+598,599,cantautor,spanish new wave,spanish pop,,,,,,,,,,,,"cantautor,spanish new wave,spanish pop",1OTnb625gMBm5NsLYAdUEm,Los Ronaldos,80877,0.54,"rock, country and indie"
+599,600,,,,,,,,,,,,,,,,3pPvxpifWmiueGdmBeUvZW,Nakary,3921,0.45,"dance, electro and ambient"
+600,601,melodic rap,pop rap,,,,,,,,,,,,,"melodic rap,pop rap",6ASri4ePR7RlsvIQgWPJpS,iann dior,1130432,0.87,"hip hop, r&b and soul"
+601,602,dance pop,neo mellow,pop,pop rock,post-teen pop,talent show,urban contemporary,,,,,,,,"dance pop,neo mellow,pop,pop rock,post-teen pop,talent show,urban contemporary",3BmGtnKgCSGYIUhmivXKWX,Kelly Clarkson,7601229,0.78,"dance, electro and ambient"
+602,603,flamenco urbano,trap latino,urbano espanol,,,,,,,,,,,,"flamenco urbano,trap latino,urbano espanol",4bJh7sMPcVRiqe5jlnsWQV,DELLAFUENTE,402791,0.68,latin and reggaeton
+603,604,flamenco urbano,,,,,,,,,,,,,,flamenco urbano,0ZiG3Fe4yVcYjUCZHmAzVQ,El Daddy,1710,0.53,latin and reggaeton
+604,605,latin,reggaeton,reggaeton flow,trap latino,,,,,,,,,,,"latin,reggaeton,reggaeton flow,trap latino",0BqURncJM5B1BBu7UM51eq,Guaynaa,613881,0.8,latin and reggaeton
+605,606,dance pop,edm,grime,house,pop dance,pop rap,post-teen pop,tropical house,,,,,,,"dance pop,edm,grime,house,pop dance,pop rap,post-teen pop,tropical house",0Tob4H0FLtEONHU1MjpUEp,Tinie Tempah,772207,0.7,"dance, electro and ambient"
+606,607,pop flamenco,spanish pop,,,,,,,,,,,,,"pop flamenco,spanish pop",1ADdpen72RPuafRcv0YRBf,Antonio Orozco,1040952,0.67,"pop, new age and standards"
+607,608,house,pop,uk dance,,,,,,,,,,,,"house,pop,uk dance",6nS5roXSAGhTGr34W6n7Et,Disclosure,1912696,0.8,"dance, electro and ambient"
+608,609,adult standards,brill building pop,classic girl group,motown,soul,,,,,,,,,,"adult standards,brill building pop,classic girl group,motown,soul",7CyeXFnOrfC1N6z4naIpgo,The Ronettes,170217,0.62,"pop, new age and standards"
+609,610,cantautor,latin arena pop,spanish pop,spanish pop rock,spanish rock,,,,,,,,,,"cantautor,latin arena pop,spanish pop,spanish pop rock,spanish rock",0QE9iXPzgSaBq34OqIZ4n2,Despistaos,194521,0.61,"rock, country and indie"
+610,611,alt z,electropop,indie cafe pop,pop,post-teen pop,social media pop,,,,,,,,,"alt z,electropop,indie cafe pop,pop,post-teen pop,social media pop",6sFHvCyqklnJpXC9Nh1aag,Alexander 23,174784,0.73,"dance, electro and ambient"
+611,612,dembow,dominican pop,rap dominicano,trap latino,,,,,,,,,,,"dembow,dominican pop,rap dominicano,trap latino",4VVEpEhC8NcR7AqNEds42U,Chimbala,284186,0.66,latin and reggaeton
+612,613,flamenco urbano,trap latino,urbano espanol,,,,,,,,,,,,"flamenco urbano,trap latino,urbano espanol",2CCgb0KApjfQDuTppovpf8,Rvfv,167777,0.72,latin and reggaeton
+613,614,chicago rap,,,,,,,,,,,,,,chicago rap,6AgTAQt8XS6jRWi4sX7w49,Polo G,3797747,0.93,"hip hop, r&b and soul"
+614,615,sertanejo,,,,,,,,,,,,,,sertanejo,1yR65psqiazQpeM79CcGh8,Marília Mendonça,19710578,0.83,other
+615,616,,,,,,,,,,,,,,,,1qz3nYVQit24tcOsCOdCvb,Cupidon,2078,0.44,"dance, electro and ambient"
+616,617,british soul,indie soul,uk contemporary r&b,,,,,,,,,,,,"british soul,indie soul,uk contemporary r&b",1Q2mS59tFYLm2KGFoCgWN4,Samm Henshaw,192336,0.59,"hip hop, r&b and soul"
+617,618,adult standards,jazz blues,swing,vocal jazz,,,,,,,,,,,"adult standards,jazz blues,swing,vocal jazz",5V0MlUE1Bft0mbLlND7FJz,Ella Fitzgerald,1941093,0.73,"pop, new age and standards"
+618,619,classic rock,heartland rock,mellow gold,permanent wave,rock,singer-songwriter,,,,,,,,,"classic rock,heartland rock,mellow gold,permanent wave,rock,singer-songwriter",3eqjTLE0HfPfh78zjh6TqT,Bruce Springsteen,3983266,0.8,"rock, country and indie"
+619,620,musica para ninos,,,,,,,,,,,,,,musica para ninos,0c2KfzRxChNVQBojuWKAb6,Parchis,37195,0.45,other
+620,621,alternative r&b,dance pop,pop,r&b,urban contemporary,,,,,,,,,,"alternative r&b,dance pop,pop,r&b,urban contemporary",5ZS223C6JyBfXasXxrRqOk,Jhené Aiko,4449926,0.83,"hip hop, r&b and soul"
+621,622,rap espanol,urbano espanol,,,,,,,,,,,,,"rap espanol,urbano espanol",3BCFlhrVzBKHbzBnWr13d9,Sebastián Cortés,17641,0.57,"hip hop, r&b and soul"
+622,623,eurovision,latin viral pop,spanish pop,,,,,,,,,,,,"eurovision,latin viral pop,spanish pop",3IJtdFn9IKbFvNvZqOJA46,Blas Cantó,199504,0.58,"pop, new age and standards"
+623,624,trap argentino,trap latino,trap triste,,,,,,,,,,,,"trap argentino,trap latino,trap triste",0dUyjgCyjfj5eMx6bX2TWf,FMK,400304,0.66,"hip hop, r&b and soul"
+624,625,dance pop,edm,electropop,pop,pop dance,post-teen pop,scandipop,swedish electropop,swedish pop,tropical house,,,,,"dance pop,edm,electropop,pop,pop dance,post-teen pop,scandipop,swedish electropop,swedish pop,tropical house",1Xylc3o4UrD53lo9CvFvVg,Zara Larsson,8695965,0.82,"dance, electro and ambient"
+625,626,dance pop,pop,pop rap,,,,,,,,,,,,"dance pop,pop,pop rap",5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,6409088,0.93,"dance, electro and ambient"
+626,627,forro,piseiro,,,,,,,,,,,,,"forro,piseiro",5Lv2GUVwqmQBPwrTrxucE5,Os Barões Da Pisadinha,3207242,0.86,other
+627,628,dance pop,pop,post-teen pop,,,,,,,,,,,,"dance pop,pop,post-teen pop",5pUo3fmmHT8bhCyHE52hA6,Liam Payne,7606082,0.75,"dance, electro and ambient"
+628,629,cantautor,nueva cancion,spanish pop,trova,,,,,,,,,,,"cantautor,nueva cancion,spanish pop,trova",67h1eGw2OFs89l8EnaOdoS,Luis Eduardo Aute,227540,0.58,"rock, country and indie"
+629,630,spanish pop,,,,,,,,,,,,,,spanish pop,4uyqaioPEdClDxU6zvYlAZ,Pablo López,616117,0.64,"pop, new age and standards"
+630,631,conscious hip hop,dmv rap,hip hop,pop rap,rap,,,,,,,,,,"conscious hip hop,dmv rap,hip hop,pop rap,rap",4xRYI6VqpkE3UwrDrAZL8L,Logic,5320135,0.83,"hip hop, r&b and soul"
+631,632,alternative r&b,pop,,,,,,,,,,,,,"alternative r&b,pop",6LuN9FCkKOj5PcnpouEgny,Khalid,13782064,0.92,"hip hop, r&b and soul"
+632,633,latin talent show,latin viral pop,,,,,,,,,,,,,"latin talent show,latin viral pop",2ZCMed7zvHPqwMcsYzYcGL,Anne Lukin,15977,0.47,latin and reggaeton
+633,634,,,,,,,,,,,,,,,,1KULunhvMNXLhjXJufv4FK,Ariadna,189,0.09,"dance, electro and ambient"
+634,635,baroque pop,brill building pop,classic rock,folk rock,psychedelic rock,rock,sunshine pop,,,,,,,,"baroque pop,brill building pop,classic rock,folk rock,psychedelic rock,rock,sunshine pop",3oDbviiivRWhXwIE8hxkVV,The Beach Boys,3102681,0.77,"pop, new age and standards"
+635,636,rap,trap,,,,,,,,,,,,,"rap,trap",4Gso3d4CscCijv0lmajZWs,Don Toliver,1411878,0.85,"hip hop, r&b and soul"
+636,637,dance pop,pop,pop rap,r&b,rap,,,,,,,,,,"dance pop,pop,pop rap,r&b,rap",7bXgB6jMjp9ATFy66eO08Z,Chris Brown,13556199,0.91,"dance, electro and ambient"
+637,638,latin,latin arena pop,latin pop,spanish pop,,,,,,,,,,,"latin,latin arena pop,latin pop,spanish pop",5M9Bb4adKAgrOFOhc05Y50,Pablo Alborán,3635725,0.79,latin and reggaeton
+638,639,villancicos,,,,,,,,,,,,,,villancicos,2GM4toz8PLIIzgPPSLN8gM,Coro Infantil Monte Mijedo,1827,0.12,latin and reggaeton
+639,640,german drill,german hip hop,,,,,,,,,,,,,"german drill,german hip hop",5p7mWeX4RlvqBCxylfiXdE,KC Rebell,1089389,0.72,other
+640,641,trap latino,,,,,,,,,,,,,,trap latino,7iK8PXO48WeuP03g8YR51W,Myke Towers,5142925,0.96,latin and reggaeton
+641,642,dance pop,electropop,pop,post-teen pop,,,,,,,,,,,"dance pop,electropop,pop,post-teen pop",4nDoRrQiYLoBzwC5BhVJzF,Camila Cabello,21279714,0.85,"dance, electro and ambient"
+642,643,british indie rock,modern rock,pop,rock,,,,,,,,,,,"british indie rock,modern rock,pop,rock",6Ad91Jof8Niiw0lGLLi3NW,YUNGBLUD,1706555,0.81,"rock, country and indie"
+643,644,adult standards,lounge,torch song,vocal jazz,,,,,,,,,,,"adult standards,lounge,torch song,vocal jazz",1AwO9pWEBSBoWdEZu28XDC,Eartha Kitt,122807,0.51,"pop, new age and standards"
+644,645,,,,,,,,,,,,,,,,6gGJH7joTDx9M3xREiAq9U,Petter Ferraz,10953,0.65,"dance, electro and ambient"
+645,646,alt z,electropop,escape room,pop,,,,,,,,,,,"alt z,electropop,escape room,pop",3PyJHH2wyfQK3WZrk9rpmP,Ashnikko,974102,0.82,"dance, electro and ambient"
+646,647,pop,post-teen pop,,,,,,,,,,,,,"pop,post-teen pop",1McMsnEElThX1knmY4oliG,Olivia Rodrigo,1586318,0.88,"pop, new age and standards"
+647,648,alt z,canadian pop,dance pop,electropop,indie cafe pop,pop,post-teen pop,,,,,,,,"alt z,canadian pop,dance pop,electropop,indie cafe pop,pop,post-teen pop",1cZQSpDsxgKIX2yW5OR9Ot,Lennon Stella,294250,0.75,"dance, electro and ambient"
+648,649,dance pop,pop,pop rap,post-teen pop,,,,,,,,,,,"dance pop,pop,pop rap,post-teen pop",07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,9297898,0.88,"dance, electro and ambient"
+649,650,permanent wave,pop,,,,,,,,,,,,,"permanent wave,pop",4gzpq5DPGxSnKTe4SA8HAU,Coldplay,29902782,0.89,other
+650,651,cali rap,west coast trap,,,,,,,,,,,,,"cali rap,west coast trap",1yI0tX9OnfOx9siPj8KNOO,Ralfy the Plug,6604,0.5,"hip hop, r&b and soul"
+651,652,atl hip hop,hip hop,pop rap,rap,,,,,,,,,,,"atl hip hop,hip hop,pop rap,rap",73sIBHcqh3Z3NyqHKZ7FOL,Childish Gambino,7765217,0.81,"hip hop, r&b and soul"
+652,653,adult standards,vocal jazz,,,,,,,,,,,,,"adult standards,vocal jazz",7v4imS0moSyGdXyLgVTIV7,Nat King Cole,1564915,0.7,"pop, new age and standards"
+653,654,australian dance,australian pop,dance pop,electropop,eurodance,europop,new wave pop,pop,,,,,,,"australian dance,australian pop,dance pop,electropop,eurodance,europop,new wave pop,pop",4RVnAU35WRWra6OZ3CbbMA,Kylie Minogue,1263868,0.74,"dance, electro and ambient"
+654,655,electro latino,latin,latin hip hop,reggaeton,trap latino,,,,,,,,,,"electro latino,latin,latin hip hop,reggaeton,trap latino",1wZtkThiXbVNtj6hee6dz9,Wisin & Yandel,4385180,0.85,"dance, electro and ambient"
+655,656,pagode,pagode novo,sertanejo pop,,,,,,,,,,,,"pagode,pagode novo,sertanejo pop",4NUePmzDvCYqilXBFa91Hg,Dilsinho,2871856,0.77,other
+656,657,trap latino,,,,,,,,,,,,,,trap latino,1tMWkquIkQtVD6vaZlDbSQ,Chema Rivas,44197,0.67,latin and reggaeton
+657,658,edm,pop dance,pop edm,tropical house,,,,,,,,,,,"edm,pop dance,pop edm,tropical house",7ACEUD7UsmmXrnj4OLt8f9,twocolors,30652,0.73,"dance, electro and ambient"
+658,659,dance pop,latin,latin pop,latin viral pop,pop,rap latina,reggaeton,trap latino,,,,,,,"dance pop,latin,latin pop,latin viral pop,pop,rap latina,reggaeton,trap latino",4obzFoKoKRHIphyHzJ35G3,Becky G,10070252,0.83,"dance, electro and ambient"
+659,660,chicago drill,chicago rap,drill,rap,southern hip hop,trap,,,,,,,,,"chicago drill,chicago rap,drill,rap,southern hip hop,trap",5QdEbQJ3ylBnc3gsIASAT5,G Herbo,1167297,0.76,other
+660,661,,,,,,,,,,,,,,,,2FHN0lFkoif5aZHW55PNKD,Villancicos de Navidad y Canciones de Navidad,40169,0.33,"dance, electro and ambient"
+661,662,flamenco,pop flamenco,rumba,sevillanas,spanish pop,villancicos,,,,,,,,,"flamenco,pop flamenco,rumba,sevillanas,spanish pop,villancicos",6B0tiYh9aXjEkmNp6LhGjk,Raya Real,86204,0.55,latin and reggaeton
+662,663,rap espanol,urbano espanol,,,,,,,,,,,,,"rap espanol,urbano espanol",6qyklgt2wzPT7KRdu15ZFL,Love Yi,17676,0.54,"hip hop, r&b and soul"
+663,664,emo rap,miami hip hop,,,,,,,,,,,,,"emo rap,miami hip hop",15UsOTVnJzReFVN1VCnxy4,XXXTENTACION,27033086,0.92,"hip hop, r&b and soul"
+664,665,bedroom soul,pop,,,,,,,,,,,,,"bedroom soul,pop",4ETSs924pXMzjIeD6E9b4u,Surfaces,685514,0.77,"hip hop, r&b and soul"
+665,666,cali rap,dance pop,pop,pop rap,post-teen pop,trap queen,,,,,,,,,"cali rap,dance pop,pop,pop rap,post-teen pop,trap queen",6cK3NBO6uP7hh0oyuVELFl,Saweetie,1111666,0.83,"hip hop, r&b and soul"
+666,667,latin,latin pop,rap latina,reggaeton,trap latino,,,,,,,,,,"latin,latin pop,rap latina,reggaeton,trap latino",1GDbiv3spRmZ1XdM1jQbT7,Natti Natasha,5856813,0.83,latin and reggaeton
+667,668,trap latino,urbano espanol,,,,,,,,,,,,,"trap latino,urbano espanol",4uiEeT7dw0guTJ5CPMsX83,SHB,3562,0.46,latin and reggaeton
+668,669,alt z,bedroom pop,electropop,indie pop,pop,post-teen pop,,,,,,,,,"alt z,bedroom pop,electropop,indie pop,pop,post-teen pop",4Uc8Dsxct0oMqx0P6i60ea,Conan Gray,3191181,0.83,"dance, electro and ambient"
+669,670,sad rap,,,,,,,,,,,,,,sad rap,4qIVPF0s71ZYW3qzhu5GkF,Kina,627670,0.77,"hip hop, r&b and soul"
+670,671,pop,uk pop,,,,,,,,,,,,,"pop,uk pop",6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,79331121,0.93,"pop, new age and standards"
+671,672,,,,,,,,,,,,,,,,6aKZgf8K8jnejmF8YeQ8EZ,Poleo,690,0.43,"dance, electro and ambient"
+672,673,indie cafe pop,indie poptimism,modern rock,pop,pop rock,,,,,,,,,,"indie cafe pop,indie poptimism,modern rock,pop,pop rock",4qWnlmXWuGv2TtuxtIWlJX,BANNERS,389384,0.74,"pop, new age and standards"
+673,674,barbadian pop,dance pop,pop,post-teen pop,urban contemporary,,,,,,,,,,"barbadian pop,dance pop,pop,post-teen pop,urban contemporary",5pKCCKE2ajJHZ9KAiaK11H,Rihanna,42454341,0.92,"pop, new age and standards"
+674,675,urbano espanol,,,,,,,,,,,,,,urbano espanol,0lxgPYvUjEApUKpZmr61IE,$kyhook,14502,0.51,latin and reggaeton
+675,676,adult standards,brill building pop,bubblegum pop,classic uk pop,europop,mellow gold,rock-and-roll,soft rock,,,,,,,"adult standards,brill building pop,bubblegum pop,classic uk pop,europop,mellow gold,rock-and-roll,soft rock",2nvKpWcP8etYTq4JrRiUiy,Cliff Richard,240599,0.61,"pop, new age and standards"
+676,677,flamenco urbano,trap latino,urbano espanol,,,,,,,,,,,,"flamenco urbano,trap latino,urbano espanol",0fdh6BhOBgk3vqVn2XKQ0F,Bandaga,86631,0.57,latin and reggaeton
+677,678,latin,latin pop,puerto rican pop,,,,,,,,,,,,"latin,latin pop,puerto rican pop",4QVBYiagIaa6ZGSPMbybpy,Pedro Capó,1328313,0.75,latin and reggaeton
+678,679,deep underground hip hop,kentucky hip hop,pop rap,rap,,,,,,,,,,,"deep underground hip hop,kentucky hip hop,pop rap,rap",2LIk90788K0zvyj2JJVwkJ,Jack Harlow,854533,0.84,"hip hop, r&b and soul"
+679,680,pop flamenco,spanish pop,,,,,,,,,,,,,"pop flamenco,spanish pop",1dbp04JzZ81JXlMGupCnJ8,Antonio José,421195,0.63,"pop, new age and standards"
+680,681,german alternative rap,german drill,german hip hop,german trap,,,,,,,,,,,"german alternative rap,german drill,german hip hop,german trap",34LetYSjEuG2fBb4Z8PwPg,Pashanim,173851,0.67,"hip hop, r&b and soul"
+681,682,adult standards,lounge,swing,vocal jazz,,,,,,,,,,,"adult standards,lounge,swing,vocal jazz",3OpnoUqoRIHWbsFs4Nw0NQ,Nat King Cole Trio,111055,0.45,"pop, new age and standards"
+682,683,reggaeton,trap latino,,,,,,,,,,,,,"reggaeton,trap latino",0OROVBEZCocg0FcgJpyBse,Alex Sensation,128422,0.6,latin and reggaeton
+683,684,hip hop,pop,pop rap,rap,,,,,,,,,,,"hip hop,pop,pop rap,rap",0xOeVMOz2fVg5BJY3N6akT,Jaden,1509682,0.78,"hip hop, r&b and soul"
+684,685,viral rap,,,,,,,,,,,,,,viral rap,5KYEMMz9O9iLIESifKAEOp,WhoHeem,24216,0.6,"hip hop, r&b and soul"
+685,686,post-romantic era,ukrainian classical,,,,,,,,,,,,,"post-romantic era,ukrainian classical",6lBN3Tzt61u8i9AJoAhKzF,Mykola Dmytrovych Leontovych,2357,0.4,other
+686,687,dominican pop,rap dominicano,,,,,,,,,,,,,"dominican pop,rap dominicano",1UjxAZqzphB1tsMb1aWBj0,Omega,155960,0.64,"pop, new age and standards"
+687,688,funk,hip hop,neo soul,r&b,soul,urban contemporary,,,,,,,,,"funk,hip hop,neo soul,r&b,soul,urban contemporary",6g0Wah2YFtb1rFgKhUktlo,Raphael Saadiq,434009,0.58,"hip hop, r&b and soul"
+688,689,dance pop,deep euro house,deep house,edm,german dance,pop,pop dance,tropical house,,,,,,,"dance pop,deep euro house,deep house,edm,german dance,pop,pop dance,tropical house",3t5xRXzsuZmMDkQzgOX35S,Robin Schulz,2710934,0.84,"dance, electro and ambient"
+689,690,british invasion,classic rock,rock,,,,,,,,,,,,"british invasion,classic rock,rock",22bE4uQ6baNwSHPVcDxLCe,The Rolling Stones,10115422,0.83,other
+690,691,adult standards,easy listening,lounge,,,,,,,,,,,,"adult standards,easy listening,lounge",1Mxqyy3pSjf8kZZL4QVxS0,Frank Sinatra,4708193,0.8,"pop, new age and standards"
+691,692,alternative metal,nu metal,post-grunge,rap metal,,,,,,,,,,,"alternative metal,nu metal,post-grunge,rap metal",6XyY86QOPPrYVGvF9ch6wz,Linkin Park,18718906,0.87,"rock, country and indie"
+692,693,latin,panamanian pop,reggaeton,trap latino,,,,,,,,,,,"latin,panamanian pop,reggaeton,trap latino",77ziqFxp5gaInVrF2lj4ht,Sech,7948826,0.9,latin and reggaeton
+693,694,alternative r&b,viral pop,,,,,,,,,,,,,"alternative r&b,viral pop",3MZsBdqDrRTJihTHQrO6Dq,Joji,4418213,0.85,"hip hop, r&b and soul"
+694,695,corrido,mexican hip hop,nuevo regional mexicano,,,,,,,,,,,,"corrido,mexican hip hop,nuevo regional mexicano",0rJ0xlAQI0wLRucDRoQQbO,El Makabelico,281092,0.69,latin and reggaeton
+695,696,,,,,,,,,,,,,,,,6Rx1JKzBrSzoKQtmbVmBnM,Hayley Williams,393200,0.72,"dance, electro and ambient"
+696,697,latin pop,reggaeton colombiano,,,,,,,,,,,,,"latin pop,reggaeton colombiano",7A02nc5WKMBLqSKXxGZ4o8,Llane,38455,0.66,"pop, new age and standards"
+697,698,pop,r&b,,,,,,,,,,,,,"pop,r&b",57LYzLEk2LcFghVwuWbcuS,Summer Walker,2261008,0.81,"pop, new age and standards"
+698,699,hip pop,neo soul,pop,r&b,urban contemporary,,,,,,,,,,"hip pop,neo soul,pop,r&b,urban contemporary",3DiDSECUqqY1AuBP8qtaIa,Alicia Keys,8601250,0.82,"pop, new age and standards"
+699,700,funk carioca,,,,,,,,,,,,,,funk carioca,5wbf52LA6kcaboHSN6NEF1,PEDRO SAMPAIO,986081,0.73,"hip hop, r&b and soul"
+700,701,argentine indie,trap argentino,,,,,,,,,,,,,"argentine indie,trap argentino",5YCc6xS5Gpj3EkaYGdjyNK,WOS,1897559,0.71,"rock, country and indie"
+701,702,garage rock,modern rock,permanent wave,rock,sheffield indie,,,,,,,,,,"garage rock,modern rock,permanent wave,rock,sheffield indie",7Ln80lUS6He07XvHI8qqHH,Arctic Monkeys,11588165,0.88,"rock, country and indie"
+702,703,latin,latin hip hop,reggaeton,trap latino,,,,,,,,,,,"latin,latin hip hop,reggaeton,trap latino",1SupJlEpv7RS2tPNRaHViT,Nicky Jam,14347208,0.89,latin and reggaeton
+703,704,alt z,electropop,pop,post-teen pop,,,,,,,,,,,"alt z,electropop,pop,post-teen pop",3gIRvgZssIb9aiirIg0nI3,Jeremy Zucker,1579692,0.82,"dance, electro and ambient"
+704,705,dance pop,pop,pop dance,post-teen pop,tropical house,uk pop,,,,,,,,,"dance pop,pop,pop dance,post-teen pop,tropical house,uk pop",1zNqDE7qDGCsyzJwohVaoX,Anne-Marie,7578623,0.83,"dance, electro and ambient"
+705,706,atl hip hop,hip hop,pop rap,rap,southern hip hop,trap,,,,,,,,,"atl hip hop,hip hop,pop rap,rap,southern hip hop,trap",0NWbwDZY1VkRqFafuQm6wk,Mike WiLL Made-It,1234333,0.73,"hip hop, r&b and soul"
+706,707,latin viral pop,spanish pop,,,,,,,,,,,,,"latin viral pop,spanish pop",5gnF05YcUt010aB7EWk96U,Arnau Griso,128437,0.57,"pop, new age and standards"
+707,708,latin arena pop,musica canaria,rock en espanol,spanish pop,,,,,,,,,,,"latin arena pop,musica canaria,rock en espanol,spanish pop",6CSa1r92LtHHdLG6kRabU3,Efecto Pasillo,361900,0.61,"pop, new age and standards"
+708,709,colombian pop,dance pop,latin,latin pop,pop,,,,,,,,,,"colombian pop,dance pop,latin,latin pop,pop",0EmeFodog0BfCgMzAIvKQp,Shakira,21538128,0.88,"pop, new age and standards"
+709,710,alternative hip hop,,,,,,,,,,,,,,alternative hip hop,3twuAojvYNrlWZpMkxLm3P,Daveed Diggs,66550,0.73,"hip hop, r&b and soul"
+710,711,dance pop,pop,pop rap,,,,,,,,,,,,"dance pop,pop,pop rap",1yxSLGMDHlW21z4YXirZDS,Black Eyed Peas,5643742,0.87,"dance, electro and ambient"
+711,712,,,,,,,,,,,,,,,,48HORs6F9P7IgdyKrk4MZC,Tarcísio do Acordeon,659997,0.81,"dance, electro and ambient"
+712,713,urbano espanol,,,,,,,,,,,,,,urbano espanol,5TYxZTjIPqKM8K8NuP9woO,C. Tangana,1287754,0.82,latin and reggaeton
+713,714,alternative rock,garage rock,modern rock,permanent wave,rock,,,,,,,,,,"alternative rock,garage rock,modern rock,permanent wave,rock",0epOFNiUfyON9EYx7Tpr6V,The Strokes,3733051,0.81,"rock, country and indie"
+714,715,baton rouge rap,trap,,,,,,,,,,,,,"baton rouge rap,trap",7wlFDEWiM5OoIAt8RSli8b,YoungBoy Never Broke Again,6734772,0.86,"hip hop, r&b and soul"
+715,716,alternative r&b,atl hip hop,hip hop,melodic rap,pop rap,r&b,rap,trap,,,,,,,"alternative r&b,atl hip hop,hip hop,melodic rap,pop rap,r&b,rap,trap",4IVAbR2w4JJNJDDRFP3E83,6LACK,2918323,0.85,"hip hop, r&b and soul"
+716,717,dance pop,edm,house,pop,pop dance,tropical house,uk dance,,,,,,,,"dance pop,edm,house,pop,pop dance,tropical house,uk dance",6DgP9otnZw5z6daOntINxp,Joel Corry,178257,0.84,"dance, electro and ambient"
+717,718,irish pub song,,,,,,,,,,,,,,irish pub song,1qbwKI8FXh805XrxaOex4P,The Clancy Brothers & Tommy Makem,13705,0.32,other
+718,719,melodic rap,pop rap,rap,trap,,,,,,,,,,,"melodic rap,pop rap,rap,trap",31W5EY0aAly4Qieq6OFu6I,A Boogie Wit da Hoodie,5662125,0.86,"hip hop, r&b and soul"
+719,720,atl hip hop,melodic rap,rap,trap,,,,,,,,,,,"atl hip hop,melodic rap,rap,trap",2hlmm7s2ICUX0LVIhVFlZQ,Gunna,3097111,0.91,"hip hop, r&b and soul"
+720,721,g funk,gangster rap,hip hop,rap,west coast rap,,,,,,,,,,"g funk,gangster rap,hip hop,rap,west coast rap",1ZwdS5xdxEREPySFridCfh,2Pac,10382311,0.84,"hip hop, r&b and soul"
+721,722,dutch hip hop,,,,,,,,,,,,,,dutch hip hop,0Jsk5iYMr5aNjHury7blm1,Boef,951898,0.7,"hip hop, r&b and soul"
+722,723,miami hip hop,rap,underground hip hop,,,,,,,,,,,,"miami hip hop,rap,underground hip hop",2rhFzFmezpnW82MNqEKVry,Ski Mask The Slump God,4125724,0.81,"hip hop, r&b and soul"
+723,724,rap espanol,urbano espanol,vapor twitch,,,,,,,,,,,,"rap espanol,urbano espanol,vapor twitch",23herDudxPBB3S81GB5uG3,Alizzz,21416,0.59,"hip hop, r&b and soul"
+724,725,francoton,french hip hop,pop urbaine,rap francais,,,,,,,,,,,"francoton,french hip hop,pop urbaine,rap francais",2tcoLkA9Hexz70Kuc1NTUl,Gradur,1338365,0.62,other
+725,726,latin,reggaeton,trap latino,,,,,,,,,,,,"latin,reggaeton,trap latino",2kqUKsTuEj1lPbm6BSn1AU,Rich Music LTD,197473,0.72,latin and reggaeton
+726,727,alt z,modern indie pop,social media pop,,,,,,,,,,,,"alt z,modern indie pop,social media pop",3QJUFtGBGL05vo0kCJZsmT,salem ilese,119589,0.72,"dance, electro and ambient"
+727,728,boy band,dance pop,pop,pop rock,post-teen pop,viral pop,,,,,,,,,"boy band,dance pop,pop,pop rock,post-teen pop,viral pop",7gOdHgIoIKoe4i9Tta6qdD,Jonas Brothers,5188348,0.8,"pop, new age and standards"
+728,729,russelater,,,,,,,,,,,,,,russelater,2ipbBHbU59PKSeDXAgMpkd,Marvin Divine,8910,0.56,other
+729,730,acoustic pop,neo mellow,pop rock,,,,,,,,,,,,"acoustic pop,neo mellow,pop rock",7m60UAnbgFFNuJbmS6OxTk,Sister Hazel,246665,0.56,"pop, new age and standards"
+730,731,electro house,,,,,,,,,,,,,,electro house,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,28243694,0.86,"dance, electro and ambient"
+731,732,album rock,art rock,beatlesque,classic rock,mellow gold,rock,soft rock,,,,,,,,"album rock,art rock,beatlesque,classic rock,mellow gold,rock,soft rock",4STHEaNw4mPZ2tzheohgXB,Paul McCartney,3481129,0.76,"rock, country and indie"
+732,733,latin,reggaeton,trap latino,,,,,,,,,,,,"latin,reggaeton,trap latino",5hdhHgpxyniooUiQVaPxQ0,Nio Garcia,1753398,0.86,latin and reggaeton
+733,734,dominican pop,,,,,,,,,,,,,,dominican pop,5RzT7CM6Ot0sh0EHefMicV,Maffio,12091,0.67,"pop, new age and standards"
+734,735,flamenco urbano,,,,,,,,,,,,,,flamenco urbano,7E4MR6ZE2UbRDkycj6bQFo,Salcedo Leyry,1681,0.41,latin and reggaeton
+735,736,indie garage rock,portland indie,,,,,,,,,,,,,"indie garage rock,portland indie",2OZfuhYQm8IY95egVPC1U9,The Shivas,19595,0.43,"rock, country and indie"
+736,737,album rock,classic rock,mellow gold,rock,soft rock,yacht rock,,,,,,,,,"album rock,classic rock,mellow gold,rock,soft rock,yacht rock",0PFtn5NtBbbUNbU9EAmIWF,TOTO,1868781,0.77,"rock, country and indie"
+737,738,uk hip hop,,,,,,,,,,,,,,uk hip hop,1nzgtKYFckznkcVMR3Gg4z,KSI,1743766,0.78,"hip hop, r&b and soul"
+738,739,spanish pop,,,,,,,,,,,,,,spanish pop,40Ippe6JeofRURQ4nbF8DT,Taburete,333956,0.65,"pop, new age and standards"
+739,740,dance pop,hip pop,pop,post-teen pop,urban contemporary,,,,,,,,,,"dance pop,hip pop,pop,post-teen pop,urban contemporary",4yiQZ8tQPux8cPriYMWUFP,Gwen Stefani,4631348,0.78,"dance, electro and ambient"
+740,741,latin,reggaeton,reggaeton flow,trap latino,,,,,,,,,,,"latin,reggaeton,reggaeton flow,trap latino",3fZk3Gm5dN5v5yfYMQ04Bx,Dímelo Flow,221576,0.77,latin and reggaeton
+741,742,cantautor,latin rock,spanish indie pop,,,,,,,,,,,,"cantautor,latin rock,spanish indie pop",6VCoG3MG7ZKRxDjaYOvtrF,Love of Lesbian,490150,0.66,"rock, country and indie"
+742,743,musica catalana,rumba,rumba catalana,spanish pop,,,,,,,,,,,"musica catalana,rumba,rumba catalana,spanish pop",4xvB67czbtvemGVXGa81oK,La Pegatina,210924,0.6,other
+743,744,sertanejo,sertanejo pop,sertanejo universitario,,,,,,,,,,,,"sertanejo,sertanejo pop,sertanejo universitario",487N2T9nIPEHrlTZLL3SQs,Zé Neto & Cristiano,13746600,0.8,other
+744,745,halloween,novelty,,,,,,,,,,,,,"halloween,novelty",42MRYPhQfcEXqb18dl5ERX,"Bobby ""Boris"" Pickett",14042,0.41,other
+745,746,,,,,,,,,,,,,,,,4ckWVaYN8j0EZrNFRHmxZx,Marmi,7829,0.53,"dance, electro and ambient"
+746,747,album rock,classic rock,hard rock,mellow gold,rock,soft rock,,,,,,,,,"album rock,classic rock,hard rock,mellow gold,rock,soft rock",0rvjqX7ttXeg3mTy8Xscbt,Journey,3530314,0.77,"rock, country and indie"
+747,748,boston hip hop,hip hop,pop rap,rap,,,,,,,,,,,"boston hip hop,hip hop,pop rap,rap",6C1ohJrd5VydigQtaGy5Wa,Joyner Lucas,1644745,0.77,"hip hop, r&b and soul"
+748,749,argentine hip hop,trap argentino,trap latino,,,,,,,,,,,,"argentine hip hop,trap argentino,trap latino",3vQ0GE3mI0dAaxIMYe5g7z,Paulo Londra,12527536,0.79,"hip hop, r&b and soul"
+749,750,kentucky hip hop,pop,pop rap,r&b,rap,trap,,,,,,,,,"kentucky hip hop,pop,pop rap,r&b,rap,trap",2EMAnMvWE2eb56ToJVfCWs,Bryson Tiller,4846568,0.81,"hip hop, r&b and soul"
+750,751,german hip hop,,,,,,,,,,,,,,german hip hop,76dRoxKtDwYkgCQePok9cU,Miksu / Macloud,23208,0.75,"hip hop, r&b and soul"
+751,752,latin,latin hip hop,reggaeton,trap latino,,,,,,,,,,,"latin,latin hip hop,reggaeton,trap latino",4SsVbpTthjScTS7U2hmr1X,Arcangel,6324528,0.86,latin and reggaeton
+752,753,jawaiian,,,,,,,,,,,,,,jawaiian,7vPGzgDg3qGUY5bWtrO3K4,Conkarah,65103,0.63,other
+753,754,albanian hip hop,german hip hop,,,,,,,,,,,,,"albanian hip hop,german hip hop",2otUckChxWf2cp6UP2cD6e,Zuna,883896,0.69,"hip hop, r&b and soul"
+754,755,dance pop,pop,post-teen pop,,,,,,,,,,,,"dance pop,pop,post-teen pop",6jJ0s89eD6GaHleKKya26X,Katy Perry,18123488,0.87,"dance, electro and ambient"
+755,756,cantautor,spanish pop,spanish pop rock,spanish rock,,,,,,,,,,,"cantautor,spanish pop,spanish pop rock,spanish rock",6mfK6Q2tzLMEchAr0e9Uzu,Pereza,370978,0.61,"rock, country and indie"
+756,757,alt z,dance pop,electropop,pop,post-teen pop,,,,,,,,,,"alt z,dance pop,electropop,pop,post-teen pop",64M6ah0SkkRsnPGtGiRAbb,Bebe Rexha,6334190,0.84,"dance, electro and ambient"
+757,758,basshall,francoton,,,,,,,,,,,,,"basshall,francoton",7IlRNXHjoOCgEAWN5qYksg,Aya Nakamura,2699629,0.79,other
+758,759,drill espanol,rap espanol,trap latino,urbano espanol,,,,,,,,,,,"drill espanol,rap espanol,trap latino,urbano espanol",22dFwJoRBV51ue5TGnC7Dt,Beny Jr,88539,0.65,other
+759,760,british soul,pop,pop soul,uk pop,,,,,,,,,,,"british soul,pop,pop soul,uk pop",4dpARuHxo51G3z768sgnrY,Adele,26927458,0.85,"hip hop, r&b and soul"
+760,761,r&b brasileiro,rap cearense,trap brasileiro,,,,,,,,,,,,"r&b brasileiro,rap cearense,trap brasileiro",5nP8x4uEFjAAmDzwOEc9b8,Matuê,2855895,0.78,"hip hop, r&b and soul"
+761,762,latin,latin alternative,latin pop,latin rock,rock en espanol,spanish pop,spanish rock,,,,,,,,"latin,latin alternative,latin pop,latin rock,rock en espanol,spanish pop,spanish rock",5B6H1Dq77AV1LZWrbNsuH5,Jarabe De Palo,1073228,0.72,latin and reggaeton
+762,763,art pop,pop,,,,,,,,,,,,,"art pop,pop",00FQb4jTyendYWaN8pK0wa,Lana Del Rey,12855379,0.89,"pop, new age and standards"
+763,764,nz pop,,,,,,,,,,,,,,nz pop,56mfhUDKa1vec6rSLZV5Eg,Jawsh 685,89398,0.77,"pop, new age and standards"
+764,765,indie r&b,,,,,,,,,,,,,,indie r&b,6trIghKwHRUyxwvm66HLHH,Fousheé,102949,0.72,"rock, country and indie"
+765,766,flamenco urbano,pop flamenco,rumba,spanish pop,,,,,,,,,,,"flamenco urbano,pop flamenco,rumba,spanish pop",5QYdUMRHeBxlpJioqpIL0k,Sergio Contreras,204918,0.59,latin and reggaeton
+766,767,melodic rap,trap,,,,,,,,,,,,,"melodic rap,trap",1cNDP5yjU5vjeR8qMf4grg,YNW Melly,5901312,0.82,"hip hop, r&b and soul"
+767,768,,,,,,,,,,,,,,,,2WxjxdeF7GGdcCK276qViY,Natalie Taylor,112838,0.68,"dance, electro and ambient"
+768,769,emo rap,lgbtq+ hip hop,,,,,,,,,,,,,"emo rap,lgbtq+ hip hop",2kCcBybjl3SAtIcwdWpUe3,Lil Peep,6850552,0.88,"hip hop, r&b and soul"
+769,770,irish singer-songwriter,modern rock,pop,,,,,,,,,,,,"irish singer-songwriter,modern rock,pop",2FXC3k01G6Gw61bmprjgqS,Hozier,4626575,0.82,other
+770,771,alternative metal,nu metal,rap metal,,,,,,,,,,,,"alternative metal,nu metal,rap metal",5eAWCfyUhZtHHtBdNk56l1,System Of A Down,7155480,0.81,"rock, country and indie"
+771,772,alt z,dance pop,electropop,pop,,,,,,,,,,,"alt z,dance pop,electropop,pop",63yrD80RY3RNEM2YDpUpO8,Melanie Martinez,10099720,0.83,"dance, electro and ambient"
+772,773,melodic rap,rap,trap,,,,,,,,,,,,"melodic rap,rap,trap",4Ga1P7PMIsmqEZqhYZQgDo,Lil Tecca,3606195,0.82,"hip hop, r&b and soul"
+773,774,electro latino,flamenco urbano,pop flamenco,,,,,,,,,,,,"electro latino,flamenco urbano,pop flamenco",1uh9OOdPa89c5zPaOD6K2N,Rasel,121942,0.59,"dance, electro and ambient"
+774,775,cantautor,spanish pop,spanish rock,,,,,,,,,,,,"cantautor,spanish pop,spanish rock",1OxGzd3ks0V8CVWtXT1VMj,Sidecars,157455,0.59,"rock, country and indie"
+775,776,adult standards,easy listening,lounge,,,,,,,,,,,,"adult standards,easy listening,lounge",6ZjFtWeHP9XN7FeKSUe80S,Bing Crosby,348076,0.59,"pop, new age and standards"
+776,777,cantautor,latin arena pop,spanish new wave,spanish pop,spanish pop rock,,,,,,,,,,"cantautor,latin arena pop,spanish new wave,spanish pop,spanish pop rock",2KEDbpUlz9nwtGywHT4gyf,Los Secretos,270144,0.6,"rock, country and indie"
+777,778,,,,,,,,,,,,,,,,4U1LKrNINY8hIwM1CkUA5J,Rayden,4375,0.4,"dance, electro and ambient"
+778,779,reggaeton,reggaeton flow,trap latino,,,,,,,,,,,,"reggaeton,reggaeton flow,trap latino",7vnithGAUscrk9Imtyr6Sd,Chris Andrew,2815,0.55,latin and reggaeton
+779,780,deep german hip hop,german hip hop,hamburg hip hop,,,,,,,,,,,,"deep german hip hop,german hip hop,hamburg hip hop",5eioJDe26lOqkAMbuhzZYs,Gzuz,1115949,0.76,"hip hop, r&b and soul"
+780,781,alt z,dance pop,electropop,pop,post-teen pop,,,,,,,,,,"alt z,dance pop,electropop,pop,post-teen pop",2kRfqPViCqYdSGhYSM9R0Q,Madison Beer,2951063,0.8,"dance, electro and ambient"
+781,782,rap catala,rap latina,trap catala,trap latino,urbano espanol,,,,,,,,,,"rap catala,rap latina,trap catala,trap latino,urbano espanol",4F4pp8NUW08JuXwnoxglpN,Bad Gyal,518108,0.72,"hip hop, r&b and soul"
+782,783,grime,uk hip hop,,,,,,,,,,,,,"grime,uk hip hop",2SrSdSvpminqmStGELCSNd,Stormzy,2242792,0.79,other
+783,784,latin arena pop,latin pop,spanish pop,spanish pop rock,,,,,,,,,,,"latin arena pop,latin pop,spanish pop,spanish pop rock",5RK6c1tyaKpwcDpbgCGNgj,El Canto Del Loco,711946,0.68,"pop, new age and standards"
+784,785,banda,corrido,norteno,regional mexican,,,,,,,,,,,"banda,corrido,norteno,regional mexican",2C6i0I5RiGzDKN9IAF8reh,Banda MS de Sergio Lizárraga,11249850,0.84,other
+785,786,latin,latin pop,puerto rican pop,,,,,,,,,,,,"latin,latin pop,puerto rican pop",4V8Sr092TqfHkfAA5fXXqG,Luis Fonsi,9370628,0.81,latin and reggaeton
+786,787,rap espanol,urbano espanol,,,,,,,,,,,,,"rap espanol,urbano espanol",3mvje4iLJHQX3Wr757PSmf,KvndySwing,7708,0.47,"hip hop, r&b and soul"
+787,788,indietronica,modern rock,pop,rock,,,,,,,,,,,"indietronica,modern rock,pop,rock",7gP3bB2nilZXLfPHJhMdvc,Foster The People,3173937,0.78,"rock, country and indie"
+788,789,argentine hip hop,pop venezolano,trap argentino,,,,,,,,,,,,"argentine hip hop,pop venezolano,trap argentino",716NhGYqD1jl2wI1Qkgq36,Bizarrap,2348115,0.83,"hip hop, r&b and soul"
+789,790,alt z,electropop,indie cafe pop,pop,post-teen pop,,,,,,,,,,"alt z,electropop,indie cafe pop,pop,post-teen pop",4xnihxcoXWK3UqryOSnbw5,Sasha Sloan,836191,0.78,"dance, electro and ambient"
+790,791,permanent wave,pop punk,punk,,,,,,,,,,,,"permanent wave,pop punk,punk",7oPftvlwr6VrsViSDV7fJY,Green Day,12048086,0.84,other
+791,792,hip hop,indie pop rap,oakland hip hop,pop rap,rap,,,,,,,,,,"hip hop,indie pop rap,oakland hip hop,pop rap,rap",02kJSzxNuaWGqwubyUba0Z,G-Eazy,4827098,0.84,"hip hop, r&b and soul"
+792,793,latin,latin hip hop,reggaeton,reggaeton colombiano,reggaeton flow,trap latino,,,,,,,,,"latin,latin hip hop,reggaeton,reggaeton colombiano,reggaeton flow,trap latino",1RBzGO6Nm3uyhUSxP7EDWO,Kevin Roldan,3810195,0.78,latin and reggaeton
+793,794,alt z,dance pop,pop,post-teen pop,,,,,,,,,,,"alt z,dance pop,pop,post-teen pop",55fhWPvDiMpLnE4ZzNXZyW,Noah Cyrus,846814,0.79,"dance, electro and ambient"
+794,795,emo rap,sad rap,,,,,,,,,,,,,"emo rap,sad rap",6bmlMHgSheBauioMgKv2tn,Powfu,857239,0.8,"hip hop, r&b and soul"
+795,796,latin,reggaeton,trap latino,,,,,,,,,,,,"latin,reggaeton,trap latino",4q3ewBCX7sLwd24euuV69X,Bad Bunny,32585264,0.98,latin and reggaeton
+796,797,reggaeton,reggaeton flow,trap boricua,trap latino,trap triste,,,,,,,,,,"reggaeton,reggaeton flow,trap boricua,trap latino,trap triste",5XJDexmWFLWOkjOEjOVX3e,Eladio Carrion,440763,0.77,latin and reggaeton
+797,798,chicago drill,chicago rap,drill,hip hop,rap,southern hip hop,trap,,,,,,,,"chicago drill,chicago rap,drill,hip hop,rap,southern hip hop,trap",3hcs9uc56yIGFCSy9leWe7,Lil Durk,2470539,0.88,other
+798,799,canadian pop,dance pop,,,,,,,,,,,,,"canadian pop,dance pop",4S9EykWXhStSc15wEx8QFK,Céline Dion,4789978,0.78,"pop, new age and standards"
+799,800,latin,latin hip hop,reggaeton,reggaeton flow,trap latino,,,,,,,,,,"latin,latin hip hop,reggaeton,reggaeton flow,trap latino",4IMAo2UQchVFyPH24PAjUs,Jowell & Randy,2774066,0.77,latin and reggaeton
+800,801,latin talent show,,,,,,,,,,,,,,latin talent show,5L6WDyrviuO7HkNgMdDeCa,Rafa Romera,15916,0.4,latin and reggaeton
+801,802,latin pop,spanish pop,spanish pop rock,,,,,,,,,,,,"latin pop,spanish pop,spanish pop rock",3AIPhNgeF9S1Kyg9Yy3UQW,Dani Martín,602823,0.68,"pop, new age and standards"
+802,803,broadway,show tunes,,,,,,,,,,,,,"broadway,show tunes",2E0WuV49YeVlDWrmLf4jKK,Steve Kazee,7217,0.53,other
+803,804,,,,,,,,,,,,,,,,2XzXLjXRSeFtsic4ieyLJy,Wilbur Soot,844496,0.72,"dance, electro and ambient"
+804,805,adult standards,,,,,,,,,,,,,,adult standards,38EmEgXkgK51MT2tPY0EoC,Bobby Helms,20276,0.48,"pop, new age and standards"
+805,806,dance pop,neo mellow,piano rock,pop,pop rock,post-teen pop,,,,,,,,,"dance pop,neo mellow,piano rock,pop,pop rock,post-teen pop",5Pwc4xIPtQLFEnJriah9YJ,OneRepublic,11707545,0.84,"dance, electro and ambient"
+806,807,funk carioca,pop nacional,,,,,,,,,,,,,"funk carioca,pop nacional",4PzYKhC14sTJNEr0dzoo0d,Luísa Sonza,1645374,0.76,"hip hop, r&b and soul"
